@@ -1,0 +1,990 @@
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.84217e-14
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=3 Nelements=32 elapsed time=1.2779e-05 GDOF/s=0.0676111 GB/s=14.1032 GFLOPS/s=10.8979
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.13163e-14
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=3 Nelements=32 elapsed time=1.25765e-05 GDOF/s=0.206099 GB/s=19.5413 GFLOPS/s=33.2201
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.42109e-14
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=3 Nelements=64 elapsed time=1.25912e-05 GDOF/s=0.137239 GB/s=28.6271 GFLOPS/s=22.1209
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.42109e-14
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=3 Nelements=64 elapsed time=1.25008e-05 GDOF/s=0.414694 GB/s=39.3191 GFLOPS/s=66.8425
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.77636e-14
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=3 Nelements=128 elapsed time=1.23283e-05 GDOF/s=0.28033 GB/s=58.4748 GFLOPS/s=45.1851
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.13163e-14
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=3 Nelements=128 elapsed time=1.23414e-05 GDOF/s=0.840098 GB/s=79.6538 GFLOPS/s=135.411
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.13163e-14
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=3 Nelements=256 elapsed time=1.27791e-05 GDOF/s=0.540882 GB/s=112.824 GFLOPS/s=87.1821
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.13163e-14
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=3 Nelements=256 elapsed time=1.226e-05 GDOF/s=1.69136 GB/s=160.366 GFLOPS/s=272.621
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.13163e-14
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=3 Nelements=512 elapsed time=1.24033e-05 GDOF/s=1.11454 GB/s=232.484 GFLOPS/s=179.647
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.84217e-14
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=3 Nelements=512 elapsed time=1.25101e-05 GDOF/s=3.31509 GB/s=314.32 GFLOPS/s=534.343
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.84217e-14
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=3 Nelements=1024 elapsed time=1.23492e-05 GDOF/s=2.23885 GB/s=467.007 GFLOPS/s=360.869
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.84217e-14
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=3 Nelements=1024 elapsed time=1.8328e-05 GDOF/s=4.52553 GB/s=429.088 GFLOPS/s=729.449
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.84217e-14
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=3 Nelements=2048 elapsed time=2.00151e-05 GDOF/s=2.76272 GB/s=576.282 GFLOPS/s=445.309
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 4.26326e-14
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=3 Nelements=2048 elapsed time=2.98102e-05 GDOF/s=5.5648 GB/s=527.625 GFLOPS/s=896.963
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 3.55271e-14
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=3 Nelements=4096 elapsed time=3.40205e-05 GDOF/s=3.25075 GB/s=678.082 GFLOPS/s=523.972
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 5.68434e-14
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=3 Nelements=4096 elapsed time=5.05429e-05 GDOF/s=6.56424 GB/s=622.387 GFLOPS/s=1058.06
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.84217e-14
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=3 Nelements=8192 elapsed time=6.52158e-05 GDOF/s=3.39157 GB/s=707.456 GFLOPS/s=546.671
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.84217e-14
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=3 Nelements=8192 elapsed time=9.22254e-05 GDOF/s=7.1949 GB/s=682.183 GFLOPS/s=1159.71
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.84217e-14
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=4 Nelements=32 elapsed time=1.25763e-05 GDOF/s=0.162845 GB/s=27.9891 GFLOPS/s=25.4446
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 8.52651e-14
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=4 Nelements=32 elapsed time=1.22952e-05 GDOF/s=0.499709 GB/s=39.0398 GFLOPS/s=78.0795
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 4.26326e-14
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=4 Nelements=64 elapsed time=1.24659e-05 GDOF/s=0.328577 GB/s=56.4742 GFLOPS/s=51.3401
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 8.52651e-14
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=4 Nelements=64 elapsed time=1.23094e-05 GDOF/s=0.998265 GB/s=77.9894 GFLOPS/s=155.979
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 5.68434e-14
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=4 Nelements=128 elapsed time=1.23396e-05 GDOF/s=0.663877 GB/s=114.104 GFLOPS/s=103.731
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 5.68434e-14
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=4 Nelements=128 elapsed time=1.24619e-05 GDOF/s=1.97209 GB/s=154.07 GFLOPS/s=308.14
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 8.52651e-14
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=4 Nelements=256 elapsed time=1.23581e-05 GDOF/s=1.32577 GB/s=227.867 GFLOPS/s=207.152
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 8.52651e-14
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=4 Nelements=256 elapsed time=1.25025e-05 GDOF/s=3.93136 GB/s=307.138 GFLOPS/s=614.275
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 5.68434e-14
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=4 Nelements=512 elapsed time=1.25979e-05 GDOF/s=2.60107 GB/s=447.059 GFLOPS/s=406.417
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 7.10543e-14
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=4 Nelements=512 elapsed time=1.7274e-05 GDOF/s=5.69087 GB/s=444.6 GFLOPS/s=889.199
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 8.52651e-14
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=4 Nelements=1024 elapsed time=1.98975e-05 GDOF/s=3.29368 GB/s=566.1 GFLOPS/s=514.637
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 8.52651e-14
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=4 Nelements=1024 elapsed time=2.97385e-05 GDOF/s=6.61124 GB/s=516.503 GFLOPS/s=1033.01
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 8.52651e-14
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=4 Nelements=2048 elapsed time=3.52585e-05 GDOF/s=3.71746 GB/s=638.938 GFLOPS/s=580.852
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 8.52651e-14
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=4 Nelements=2048 elapsed time=5.0509e-05 GDOF/s=7.78507 GB/s=608.209 GFLOPS/s=1216.42
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.13687e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=4 Nelements=4096 elapsed time=6.80642e-05 GDOF/s=3.85142 GB/s=661.963 GFLOPS/s=601.785
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 8.52651e-14
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=4 Nelements=4096 elapsed time=9.33754e-05 GDOF/s=8.42226 GB/s=657.989 GFLOPS/s=1315.98
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 8.52651e-14
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=4 Nelements=8192 elapsed time=0.000133297 GDOF/s=3.93324 GB/s=676.026 GFLOPS/s=614.569
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 8.52651e-14
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=4 Nelements=8192 elapsed time=0.000178034 GDOF/s=8.83463 GB/s=690.205 GFLOPS/s=1380.41
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.13687e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=5 Nelements=32 elapsed time=1.25745e-05 GDOF/s=0.318103 GB/s=48.3721 GFLOPS/s=50.5708
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.13687e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=5 Nelements=32 elapsed time=1.22815e-05 GDOF/s=0.977079 GB/s=67.5357 GFLOPS/s=155.332
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.13687e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=5 Nelements=64 elapsed time=1.23062e-05 GDOF/s=0.65008 GB/s=98.8537 GFLOPS/s=103.347
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.27898e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=5 Nelements=64 elapsed time=1.22674e-05 GDOF/s=1.9564 GB/s=135.226 GFLOPS/s=311.02
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.13687e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=5 Nelements=128 elapsed time=1.23303e-05 GDOF/s=1.29762 GB/s=197.321 GFLOPS/s=206.29
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.7053e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=5 Nelements=128 elapsed time=1.23315e-05 GDOF/s=3.89248 GB/s=269.048 GFLOPS/s=618.81
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.7053e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=5 Nelements=256 elapsed time=1.22537e-05 GDOF/s=2.61145 GB/s=397.107 GFLOPS/s=415.158
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.7053e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=5 Nelements=256 elapsed time=1.87401e-05 GDOF/s=5.1227 GB/s=354.081 GFLOPS/s=814.386
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.7053e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=5 Nelements=512 elapsed time=2.07387e-05 GDOF/s=3.08601 GB/s=469.272 GFLOPS/s=490.602
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.27374e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=5 Nelements=512 elapsed time=3.32418e-05 GDOF/s=5.77585 GB/s=399.227 GFLOPS/s=918.222
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.7053e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=5 Nelements=1024 elapsed time=3.15164e-05 GDOF/s=4.06137 GB/s=617.589 GFLOPS/s=645.661
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.27374e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=5 Nelements=1024 elapsed time=5.41268e-05 GDOF/s=7.09445 GB/s=490.368 GFLOPS/s=1127.85
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.27374e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=5 Nelements=2048 elapsed time=5.79377e-05 GDOF/s=4.41854 GB/s=671.901 GFLOPS/s=702.442
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.84217e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=5 Nelements=2048 elapsed time=9.51913e-05 GDOF/s=8.06797 GB/s=557.658 GFLOPS/s=1282.61
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.27374e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=5 Nelements=4096 elapsed time=0.00010948 GDOF/s=4.67665 GB/s=711.15 GFLOPS/s=743.475
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.27374e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=5 Nelements=4096 elapsed time=0.000176251 GDOF/s=8.71486 GB/s=602.371 GFLOPS/s=1385.45
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.27374e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=5 Nelements=8192 elapsed time=0.000208758 GDOF/s=4.9052 GB/s=745.905 GFLOPS/s=779.81
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.27374e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=5 Nelements=8192 elapsed time=0.000334616 GDOF/s=9.18067 GB/s=634.568 GFLOPS/s=1459.51
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.84217e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=6 Nelements=32 elapsed time=1.25982e-05 GDOF/s=0.548652 GB/s=76.669 GFLOPS/s=90.6089
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.55795e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=6 Nelements=32 elapsed time=1.35149e-05 GDOF/s=1.53431 GB/s=97.457 GFLOPS/s=253.388
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.7053e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=6 Nelements=64 elapsed time=1.22674e-05 GDOF/s=1.12689 GB/s=157.473 GFLOPS/s=186.104
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.27374e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=6 Nelements=64 elapsed time=1.38413e-05 GDOF/s=2.99624 GB/s=190.317 GFLOPS/s=494.824
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.27374e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=6 Nelements=128 elapsed time=1.25147e-05 GDOF/s=2.20925 GB/s=308.722 GFLOPS/s=364.853
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 3.41061e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=6 Nelements=128 elapsed time=1.50274e-05 GDOF/s=5.51953 GB/s=350.592 GFLOPS/s=911.539
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.84217e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=6 Nelements=256 elapsed time=2.00462e-05 GDOF/s=2.75843 GB/s=385.464 GFLOPS/s=455.549
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 3.97904e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=6 Nelements=256 elapsed time=2.70056e-05 GDOF/s=6.14273 GB/s=390.177 GFLOPS/s=1014.46
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 3.41061e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=6 Nelements=512 elapsed time=2.72529e-05 GDOF/s=4.05799 GB/s=567.067 GFLOPS/s=670.17
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 3.41061e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=6 Nelements=512 elapsed time=4.75493e-05 GDOF/s=6.97752 GB/s=443.202 GFLOPS/s=1152.32
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 3.41061e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=6 Nelements=1024 elapsed time=4.70688e-05 GDOF/s=4.69916 GB/s=656.664 GFLOPS/s=776.058
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 3.41061e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=6 Nelements=1024 elapsed time=7.8814e-05 GDOF/s=8.41922 GB/s=534.776 GFLOPS/s=1390.42
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 3.41061e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=6 Nelements=2048 elapsed time=9.01428e-05 GDOF/s=4.90742 GB/s=685.766 GFLOPS/s=810.451
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 4.54747e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=6 Nelements=2048 elapsed time=0.000140648 GDOF/s=9.43562 GB/s=599.337 GFLOPS/s=1558.28
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 3.41061e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=6 Nelements=4096 elapsed time=0.000171952 GDOF/s=5.14524 GB/s=719 GFLOPS/s=849.727
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 3.41061e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=6 Nelements=4096 elapsed time=0.000266344 GDOF/s=9.96536 GB/s=632.985 GFLOPS/s=1645.76
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 4.54747e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=6 Nelements=8192 elapsed time=0.000336337 GDOF/s=5.26101 GB/s=735.177 GFLOPS/s=868.845
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 4.54747e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=6 Nelements=8192 elapsed time=0.00051638 GDOF/s=10.28 GB/s=652.974 GFLOPS/s=1697.73
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.84217e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=7 Nelements=32 elapsed time=1.46338e-05 GDOF/s=0.750042 GB/s=98.5245 GFLOPS/s=129.873
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 3.41061e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=7 Nelements=32 elapsed time=1.62609e-05 GDOF/s=2.02498 GB/s=120.908 GFLOPS/s=350.634
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 5.68434e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=7 Nelements=64 elapsed time=1.49714e-05 GDOF/s=1.46627 GB/s=192.607 GFLOPS/s=253.891
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 5.68434e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=7 Nelements=64 elapsed time=1.67788e-05 GDOF/s=3.92496 GB/s=234.353 GFLOPS/s=679.624
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 3.41061e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=7 Nelements=128 elapsed time=1.6442e-05 GDOF/s=2.67023 GB/s=350.758 GFLOPS/s=462.363
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 4.54747e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=7 Nelements=128 elapsed time=2.38322e-05 GDOF/s=5.52665 GB/s=329.988 GFLOPS/s=956.964
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 4.54747e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=7 Nelements=256 elapsed time=2.62096e-05 GDOF/s=3.35022 GB/s=440.08 GFLOPS/s=580.106
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 4.54747e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=7 Nelements=256 elapsed time=3.55269e-05 GDOF/s=7.41478 GB/s=442.725 GFLOPS/s=1283.9
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 5.68434e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=7 Nelements=512 elapsed time=3.71873e-05 GDOF/s=4.72247 GB/s=620.337 GFLOPS/s=817.717
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 5.68434e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=7 Nelements=512 elapsed time=6.19366e-05 GDOF/s=8.50624 GB/s=507.895 GFLOPS/s=1472.89
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 6.82121e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=7 Nelements=1024 elapsed time=6.30537e-05 GDOF/s=5.57036 GB/s=731.715 GFLOPS/s=964.534
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 6.82121e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=7 Nelements=1024 elapsed time=0.000108046 GDOF/s=9.75231 GB/s=582.295 GFLOPS/s=1688.66
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 6.82121e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=7 Nelements=2048 elapsed time=0.00011899 GDOF/s=5.90354 GB/s=775.481 GFLOPS/s=1022.23
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 6.82121e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=7 Nelements=2048 elapsed time=0.00019686 GDOF/s=10.7051 GB/s=639.182 GFLOPS/s=1853.63
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 6.82121e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=7 Nelements=4096 elapsed time=0.000231714 GDOF/s=6.0632 GB/s=796.453 GFLOPS/s=1049.87
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.13687e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=7 Nelements=4096 elapsed time=0.000376467 GDOF/s=11.1956 GB/s=668.473 GFLOPS/s=1938.57
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 6.82121e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=7 Nelements=8192 elapsed time=0.000454616 GDOF/s=6.18073 GB/s=811.892 GFLOPS/s=1070.22
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.13687e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=7 Nelements=8192 elapsed time=0.000741183 GDOF/s=11.3731 GB/s=679.072 GFLOPS/s=1969.31
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 6.82121e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=8 Nelements=32 elapsed time=1.45013e-05 GDOF/s=1.12983 GB/s=141.564 GFLOPS/s=205.912
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 6.82121e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=8 Nelements=32 elapsed time=1.67817e-05 GDOF/s=2.9289 GB/s=166.81 GFLOPS/s=533.793
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 6.82121e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=8 Nelements=64 elapsed time=1.50381e-05 GDOF/s=2.179 GB/s=273.022 GFLOPS/s=397.122
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.13687e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=8 Nelements=64 elapsed time=1.72583e-05 GDOF/s=5.69603 GB/s=324.407 GFLOPS/s=1038.1
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 9.09495e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=8 Nelements=128 elapsed time=2.73763e-05 GDOF/s=2.3939 GB/s=299.948 GFLOPS/s=436.287
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 9.09495e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=8 Nelements=128 elapsed time=3.41251e-05 GDOF/s=5.76139 GB/s=328.129 GFLOPS/s=1050.01
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 7.38964e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=8 Nelements=256 elapsed time=3.41595e-05 GDOF/s=3.83706 GB/s=480.772 GFLOPS/s=699.304
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 9.09495e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=8 Nelements=256 elapsed time=6.14678e-05 GDOF/s=6.3971 GB/s=364.335 GFLOPS/s=1165.87
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 9.09495e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=8 Nelements=512 elapsed time=5.23741e-05 GDOF/s=5.00522 GB/s=627.139 GFLOPS/s=912.202
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.13687e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=8 Nelements=512 elapsed time=0.000103003 GDOF/s=7.63505 GB/s=434.84 GFLOPS/s=1391.49
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 9.09495e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=8 Nelements=1024 elapsed time=0.000102563 GDOF/s=5.11187 GB/s=640.502 GFLOPS/s=931.639
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 9.09495e-13
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=8 Nelements=1024 elapsed time=0.000184365 GDOF/s=8.53127 GB/s=485.882 GFLOPS/s=1554.82
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.13687e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=8 Nelements=2048 elapsed time=0.000194185 GDOF/s=5.39989 GB/s=676.59 GFLOPS/s=984.13
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.59162e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=8 Nelements=2048 elapsed time=0.000354555 GDOF/s=8.87232 GB/s=505.306 GFLOPS/s=1616.98
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.36424e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=8 Nelements=4096 elapsed time=0.000366638 GDOF/s=5.71995 GB/s=716.692 GFLOPS/s=1042.46
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.36424e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=8 Nelements=4096 elapsed time=0.000691289 GDOF/s=9.10106 GB/s=518.334 GFLOPS/s=1658.67
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.13687e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=8 Nelements=8192 elapsed time=0.000718591 GDOF/s=5.83685 GB/s=731.338 GFLOPS/s=1063.77
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.81899e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=8 Nelements=8192 elapsed time=0.0012959 GDOF/s=9.70978 GB/s=553.002 GFLOPS/s=1769.61
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.36424e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=9 Nelements=32 elapsed time=1.84369e-05 GDOF/s=1.26529 GB/s=152.737 GFLOPS/s=242.991
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.36424e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=9 Nelements=32 elapsed time=2.17629e-05 GDOF/s=3.21574 GB/s=176.447 GFLOPS/s=617.564
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.13687e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=9 Nelements=64 elapsed time=2.20325e-05 GDOF/s=2.1176 GB/s=255.622 GFLOPS/s=406.671
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.36424e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=9 Nelements=64 elapsed time=2.7137e-05 GDOF/s=5.15782 GB/s=283.008 GFLOPS/s=990.528
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.36424e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=9 Nelements=128 elapsed time=3.37899e-05 GDOF/s=2.76154 GB/s=333.354 GFLOPS/s=530.336
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.36424e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=9 Nelements=128 elapsed time=4.19941e-05 GDOF/s=6.66609 GB/s=365.766 GFLOPS/s=1280.18
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.59162e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=9 Nelements=256 elapsed time=4.38101e-05 GDOF/s=4.25984 GB/s=514.219 GFLOPS/s=818.076
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.59162e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=9 Nelements=256 elapsed time=7.51744e-05 GDOF/s=7.44764 GB/s=408.65 GFLOPS/s=1430.27
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.36424e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=9 Nelements=512 elapsed time=8.29879e-05 GDOF/s=4.49762 GB/s=542.922 GFLOPS/s=863.74
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.81899e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=9 Nelements=512 elapsed time=0.000128085 GDOF/s=8.74219 GB/s=479.681 GFLOPS/s=1678.88
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.81899e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=9 Nelements=1024 elapsed time=0.000139233 GDOF/s=5.3615 GB/s=647.204 GFLOPS/s=1029.64
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.27374e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=9 Nelements=1024 elapsed time=0.000233848 GDOF/s=9.57667 GB/s=525.469 GFLOPS/s=1839.14
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.81899e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=9 Nelements=2048 elapsed time=0.00025396 GDOF/s=5.87884 GB/s=709.654 GFLOPS/s=1128.99
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.27374e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=9 Nelements=2048 elapsed time=0.000444527 GDOF/s=10.0758 GB/s=552.857 GFLOPS/s=1935
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.81899e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=9 Nelements=4096 elapsed time=0.0004877 GDOF/s=6.12258 GB/s=739.077 GFLOPS/s=1175.8
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.27374e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=9 Nelements=4096 elapsed time=0.000866784 GDOF/s=10.3347 GB/s=567.062 GFLOPS/s=1984.72
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.27374e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=9 Nelements=8192 elapsed time=0.000961981 GDOF/s=6.20799 GB/s=749.387 GFLOPS/s=1192.21
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.27374e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=9 Nelements=8192 elapsed time=0.00159324 GDOF/s=11.2449 GB/s=617.006 GFLOPS/s=2159.52
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.81899e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=10 Nelements=32 elapsed time=2.21384e-05 GDOF/s=1.44545 GB/s=169.303 GFLOPS/s=292.432
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.27374e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=10 Nelements=32 elapsed time=2.72264e-05 GDOF/s=3.52599 GB/s=187.724 GFLOPS/s=713.351
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.27374e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=10 Nelements=64 elapsed time=3.18804e-05 GDOF/s=2.0075 GB/s=235.135 GFLOPS/s=406.142
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.27374e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=10 Nelements=64 elapsed time=3.48219e-05 GDOF/s=5.51378 GB/s=293.554 GFLOPS/s=1115.5
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.59162e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=10 Nelements=128 elapsed time=3.84213e-05 GDOF/s=3.33148 GB/s=390.21 GFLOPS/s=673.999
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.27374e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=10 Nelements=128 elapsed time=5.41461e-05 GDOF/s=7.09192 GB/s=377.574 GFLOPS/s=1434.78
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.27374e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=10 Nelements=256 elapsed time=5.50969e-05 GDOF/s=4.64636 GB/s=544.219 GFLOPS/s=940.015
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.27374e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=10 Nelements=256 elapsed time=9.56239e-05 GDOF/s=8.03146 GB/s=427.595 GFLOPS/s=1624.86
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.72848e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=10 Nelements=512 elapsed time=0.00010715 GDOF/s=4.77835 GB/s=559.678 GFLOPS/s=966.717
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.72848e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=10 Nelements=512 elapsed time=0.000164032 GDOF/s=9.36403 GB/s=498.541 GFLOPS/s=1894.46
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.27374e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=10 Nelements=1024 elapsed time=0.000183986 GDOF/s=5.56563 GB/s=651.891 GFLOPS/s=1125.99
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.72848e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=10 Nelements=1024 elapsed time=0.000296724 GDOF/s=10.353 GB/s=551.196 GFLOPS/s=2094.54
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.72848e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=10 Nelements=2048 elapsed time=0.00035225 GDOF/s=5.81405 GB/s=680.988 GFLOPS/s=1176.25
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 3.18323e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=10 Nelements=2048 elapsed time=0.000570783 GDOF/s=10.7642 GB/s=573.084 GFLOPS/s=2177.72
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.95586e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=10 Nelements=4096 elapsed time=0.000677315 GDOF/s=6.04741 GB/s=708.321 GFLOPS/s=1223.46
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 3.18323e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=10 Nelements=4096 elapsed time=0.00110682 GDOF/s=11.102 GB/s=591.072 GFLOPS/s=2246.07
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 4.54747e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=10 Nelements=8192 elapsed time=0.00131155 GDOF/s=6.24602 GB/s=731.584 GFLOPS/s=1263.65
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 4.54747e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=10 Nelements=8192 elapsed time=0.00203911 GDOF/s=12.0523 GB/s=641.665 GFLOPS/s=2438.33
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.27374e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=11 Nelements=32 elapsed time=3.01765e-05 GDOF/s=1.41143 GB/s=161.253 GFLOPS/s=300.517
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.72848e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=11 Nelements=32 elapsed time=4.93105e-05 GDOF/s=2.59126 GB/s=134.566 GFLOPS/s=551.721
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 3.63798e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=11 Nelements=64 elapsed time=4.18687e-05 GDOF/s=2.03455 GB/s=232.443 GFLOPS/s=433.19
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 3.18323e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=11 Nelements=64 elapsed time=5.5297e-05 GDOF/s=4.62145 GB/s=239.996 GFLOPS/s=983.983
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 3.63798e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=11 Nelements=128 elapsed time=4.98076e-05 GDOF/s=3.42052 GB/s=390.788 GFLOPS/s=728.286
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 3.63798e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=11 Nelements=128 elapsed time=0.000104493 GDOF/s=4.89127 GB/s=254.008 GFLOPS/s=1041.43
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.72848e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=11 Nelements=256 elapsed time=6.91335e-05 GDOF/s=4.92866 GB/s=563.09 GFLOPS/s=1049.39
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 3.63798e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=11 Nelements=256 elapsed time=0.000204413 GDOF/s=5.00069 GB/s=259.69 GFLOPS/s=1064.73
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 3.63798e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=11 Nelements=512 elapsed time=0.000128988 GDOF/s=5.28323 GB/s=603.599 GFLOPS/s=1124.89
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 3.63798e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=11 Nelements=512 elapsed time=0.000359836 GDOF/s=5.68152 GB/s=295.046 GFLOPS/s=1209.69
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 4.54747e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=11 Nelements=1024 elapsed time=0.000241973 GDOF/s=5.63264 GB/s=643.517 GFLOPS/s=1199.28
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 5.45697e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=11 Nelements=1024 elapsed time=0.000672894 GDOF/s=6.07648 GB/s=315.557 GFLOPS/s=1293.78
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 4.54747e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=11 Nelements=2048 elapsed time=0.000442552 GDOF/s=6.15948 GB/s=703.708 GFLOPS/s=1311.46
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 5.45697e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=11 Nelements=2048 elapsed time=0.00130002 GDOF/s=6.29042 GB/s=326.667 GFLOPS/s=1339.34
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 4.54747e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=11 Nelements=4096 elapsed time=0.000831444 GDOF/s=6.55699 GB/s=749.123 GFLOPS/s=1396.09
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 4.54747e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=11 Nelements=4096 elapsed time=0.00261443 GDOF/s=6.25579 GB/s=324.868 GFLOPS/s=1331.96
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 4.54747e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=11 Nelements=8192 elapsed time=0.00165828 GDOF/s=6.57521 GB/s=751.204 GFLOPS/s=1399.97
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 5.45697e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=11 Nelements=8192 elapsed time=0.00475192 GDOF/s=6.88367 GB/s=357.475 GFLOPS/s=1465.65
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 3.18323e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=12 Nelements=32 elapsed time=2.82892e-05 GDOF/s=1.95467 GB/s=218.697 GFLOPS/s=437.394
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 3.63798e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=12 Nelements=32 elapsed time=0.000115726 GDOF/s=1.43346 GB/s=72.9008 GFLOPS/s=320.763
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 5.45697e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=12 Nelements=64 elapsed time=3.99046e-05 GDOF/s=2.77141 GB/s=310.077 GFLOPS/s=620.154
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 7.27596e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=12 Nelements=64 elapsed time=0.000124053 GDOF/s=2.67447 GB/s=136.014 GFLOPS/s=598.463
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 4.09273e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=12 Nelements=128 elapsed time=5.35756e-05 GDOF/s=4.12845 GB/s=461.908 GFLOPS/s=923.817
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 3.63798e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=12 Nelements=128 elapsed time=0.00024669 GDOF/s=2.68982 GB/s=136.795 GFLOPS/s=601.896
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 5.45697e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=12 Nelements=256 elapsed time=0.000100115 GDOF/s=4.41859 GB/s=494.371 GFLOPS/s=988.742
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 5.45697e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=12 Nelements=256 elapsed time=0.000486612 GDOF/s=2.72724 GB/s=138.698 GFLOPS/s=610.269
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 4.54747e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=12 Nelements=512 elapsed time=0.000186631 GDOF/s=4.74056 GB/s=530.394 GFLOPS/s=1060.79
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 7.27596e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=12 Nelements=512 elapsed time=0.000860975 GDOF/s=3.08279 GB/s=156.78 GFLOPS/s=689.832
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 6.36646e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=12 Nelements=1024 elapsed time=0.000336091 GDOF/s=5.26485 GB/s=589.054 GFLOPS/s=1178.11
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 7.27596e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=12 Nelements=1024 elapsed time=0.00160118 GDOF/s=3.31531 GB/s=168.605 GFLOPS/s=741.861
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 5.45697e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=12 Nelements=2048 elapsed time=0.000610375 GDOF/s=5.79798 GB/s=648.703 GFLOPS/s=1297.41
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 9.09495e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=12 Nelements=2048 elapsed time=0.00315182 GDOF/s=3.36848 GB/s=171.309 GFLOPS/s=753.759
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 9.09495e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=12 Nelements=4096 elapsed time=0.00121033 GDOF/s=5.84792 GB/s=654.29 GFLOPS/s=1308.58
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 9.09495e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=12 Nelements=4096 elapsed time=0.00591945 GDOF/s=3.5871 GB/s=182.427 GFLOPS/s=802.68
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 7.27596e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=12 Nelements=8192 elapsed time=0.00242157 GDOF/s=5.84571 GB/s=654.043 GFLOPS/s=1308.09
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 7.27596e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=12 Nelements=8192 elapsed time=0.0117473 GDOF/s=3.61507 GB/s=183.85 GFLOPS/s=808.939
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 7.27596e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=13 Nelements=32 elapsed time=4.52518e-05 GDOF/s=1.55362 GB/s=170.758 GFLOPS/s=364.801
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 7.27596e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=13 Nelements=32 elapsed time=0.000127229 GDOF/s=1.65774 GB/s=82.8189 GFLOPS/s=389.249
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 6.36646e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=13 Nelements=64 elapsed time=4.86261e-05 GDOF/s=2.89161 GB/s=317.817 GFLOPS/s=678.972
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 5.45697e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=13 Nelements=64 elapsed time=0.000134457 GDOF/s=3.13724 GB/s=156.733 GFLOPS/s=736.647
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 5.45697e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=13 Nelements=128 elapsed time=6.44007e-05 GDOF/s=4.36666 GB/s=479.939 GFLOPS/s=1025.32
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 7.27596e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=13 Nelements=128 elapsed time=0.00026818 GDOF/s=3.14582 GB/s=157.162 GFLOPS/s=738.663
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 5.45697e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=13 Nelements=256 elapsed time=0.000119986 GDOF/s=4.68748 GB/s=515.2 GFLOPS/s=1100.66
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 9.09495e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=13 Nelements=256 elapsed time=0.000529151 GDOF/s=3.18869 GB/s=159.304 GFLOPS/s=748.728
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 7.27596e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=13 Nelements=512 elapsed time=0.000224769 GDOF/s=5.00454 GB/s=550.049 GFLOPS/s=1175.1
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 9.09495e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=13 Nelements=512 elapsed time=0.000944957 GDOF/s=3.57116 GB/s=178.412 GFLOPS/s=838.535
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 9.09495e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=13 Nelements=1024 elapsed time=0.000409741 GDOF/s=5.4906 GB/s=603.472 GFLOPS/s=1289.23
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 9.09495e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=13 Nelements=1024 elapsed time=0.00175828 GDOF/s=3.83851 GB/s=191.768 GFLOPS/s=901.31
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.00044e-11
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=13 Nelements=2048 elapsed time=0.000747969 GDOF/s=6.01557 GB/s=661.17 GFLOPS/s=1412.5
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 9.09495e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=13 Nelements=2048 elapsed time=0.00327234 GDOF/s=4.12498 GB/s=206.08 GFLOPS/s=968.577
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 9.09495e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=13 Nelements=4096 elapsed time=0.00152485 GDOF/s=5.9015 GB/s=648.633 GFLOPS/s=1385.72
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.09139e-11
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=13 Nelements=4096 elapsed time=0.00655826 GDOF/s=4.11645 GB/s=205.654 GFLOPS/s=966.573
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.27329e-11
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=13 Nelements=8192 elapsed time=0.00302712 GDOF/s=5.94552 GB/s=653.472 GFLOPS/s=1396.05
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.27329e-11
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=13 Nelements=8192 elapsed time=0.0129697 GDOF/s=4.16306 GB/s=207.982 GFLOPS/s=977.518
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 6.36646e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=14 Nelements=32 elapsed time=4.84173e-05 GDOF/s=1.81357 GB/s=196.294 GFLOPS/s=446.122
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 9.09495e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=14 Nelements=32 elapsed time=0.000153691 GDOF/s=1.71399 GB/s=84.3253 GFLOPS/s=421.626
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.09139e-11
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=14 Nelements=64 elapsed time=5.31865e-05 GDOF/s=3.30189 GB/s=357.384 GFLOPS/s=812.236
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.09139e-11
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=14 Nelements=64 elapsed time=0.000164074 GDOF/s=3.21104 GB/s=157.977 GFLOPS/s=789.887
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 9.09495e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=14 Nelements=128 elapsed time=7.89501e-05 GDOF/s=4.44878 GB/s=481.519 GFLOPS/s=1094.36
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 9.09495e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=14 Nelements=128 elapsed time=0.000326324 GDOF/s=3.22898 GB/s=158.86 GFLOPS/s=794.302
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 9.09495e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=14 Nelements=256 elapsed time=0.000147322 GDOF/s=4.76824 GB/s=516.096 GFLOPS/s=1172.94
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.09139e-11
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=14 Nelements=256 elapsed time=0.000652306 GDOF/s=3.23068 GB/s=158.944 GFLOPS/s=794.719
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 9.09495e-12
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=14 Nelements=512 elapsed time=0.000266977 GDOF/s=5.26235 GB/s=569.577 GFLOPS/s=1294.49
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.81899e-11
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=14 Nelements=512 elapsed time=0.00112375 GDOF/s=3.75064 GB/s=184.525 GFLOPS/s=922.626
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.09139e-11
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=14 Nelements=1024 elapsed time=0.000463904 GDOF/s=6.05698 GB/s=655.584 GFLOPS/s=1489.96
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.09139e-11
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=14 Nelements=1024 elapsed time=0.002001 GDOF/s=4.21269 GB/s=207.257 GFLOPS/s=1036.28
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.27329e-11
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=14 Nelements=2048 elapsed time=0.000898054 GDOF/s=6.25766 GB/s=677.305 GFLOPS/s=1539.33
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.45519e-11
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=14 Nelements=2048 elapsed time=0.00399877 GDOF/s=4.21608 GB/s=207.424 GFLOPS/s=1037.12
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.09139e-11
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=14 Nelements=4096 elapsed time=0.00175511 GDOF/s=6.40384 GB/s=693.127 GFLOPS/s=1575.29
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.36424e-11
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=14 Nelements=4096 elapsed time=0.00798839 GDOF/s=4.22091 GB/s=207.661 GFLOPS/s=1038.31
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.45519e-11
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=14 Nelements=8192 elapsed time=0.00352113 GDOF/s=6.38399 GB/s=690.978 GFLOPS/s=1570.41
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.63709e-11
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=14 Nelements=8192 elapsed time=0.0158332 GDOF/s=4.2592 GB/s=209.545 GFLOPS/s=1047.72
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.09139e-11
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=15 Nelements=32 elapsed time=8.37832e-05 GDOF/s=1.28904 GB/s=137.669 GFLOPS/s=331.657
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.09139e-11
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=15 Nelements=32 elapsed time=0.000176561 GDOF/s=1.83506 GB/s=89.0835 GFLOPS/s=472.142
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.18234e-11
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=15 Nelements=64 elapsed time=8.88595e-05 GDOF/s=2.4308 GB/s=259.608 GFLOPS/s=625.42
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.45519e-11
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=15 Nelements=64 elapsed time=0.000189956 GDOF/s=3.41132 GB/s=165.603 GFLOPS/s=877.697
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.09139e-11
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=15 Nelements=128 elapsed time=0.000120867 GDOF/s=3.57419 GB/s=381.721 GFLOPS/s=919.601
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.45519e-11
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=15 Nelements=128 elapsed time=0.000376759 GDOF/s=3.43987 GB/s=166.989 GFLOPS/s=885.041
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.27329e-11
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=15 Nelements=256 elapsed time=0.000230171 GDOF/s=3.75374 GB/s=400.897 GFLOPS/s=965.797
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.45519e-11
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=15 Nelements=256 elapsed time=0.000750684 GDOF/s=3.45285 GB/s=167.619 GFLOPS/s=888.382
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.81899e-11
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=15 Nelements=512 elapsed time=0.0004169 GDOF/s=4.14488 GB/s=442.67 GFLOPS/s=1066.43
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.81899e-11
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=15 Nelements=512 elapsed time=0.00133139 GDOF/s=3.89367 GB/s=189.019 GFLOPS/s=1001.8
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.45519e-11
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=15 Nelements=1024 elapsed time=0.000701018 GDOF/s=4.92997 GB/s=526.518 GFLOPS/s=1268.43
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.45519e-11
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=15 Nelements=1024 elapsed time=0.00231551 GDOF/s=4.47764 GB/s=217.368 GFLOPS/s=1152.05
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.63709e-11
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=15 Nelements=2048 elapsed time=0.0012695 GDOF/s=5.44465 GB/s=581.485 GFLOPS/s=1400.85
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.18279e-11
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=15 Nelements=2048 elapsed time=0.0046036 GDOF/s=4.5043 GB/s=218.662 GFLOPS/s=1158.91
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.45519e-11
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=15 Nelements=4096 elapsed time=0.00250535 GDOF/s=5.51779 GB/s=589.297 GFLOPS/s=1419.67
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.54659e-11
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=15 Nelements=4096 elapsed time=0.00920947 GDOF/s=4.50319 GB/s=218.608 GFLOPS/s=1158.62
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.81899e-11
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=15 Nelements=8192 elapsed time=0.00496248 GDOF/s=5.57141 GB/s=595.023 GFLOPS/s=1433.46
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.18279e-11
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=3 N=15 Nelements=8192 elapsed time=0.0184159 GDOF/s=4.50394 GB/s=218.645 GFLOPS/s=1158.82
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.63709e-11
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=16 Nelements=32 elapsed time=7.83248e-05 GDOF/s=1.67344 GB/s=176.636 GFLOPS/s=449.62
+word size: 8 bytes
+active occa mode: CUDA
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.18279e-11
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=16 Nelements=64 elapsed time=8.38428e-05 GDOF/s=3.12661 GB/s=330.022 GFLOPS/s=840.057
+word size: 8 bytes
+active occa mode: CUDA
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.45519e-11
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=16 Nelements=128 elapsed time=0.000159701 GDOF/s=3.28293 GB/s=346.522 GFLOPS/s=882.057
+word size: 8 bytes
+active occa mode: CUDA
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.45519e-11
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=16 Nelements=256 elapsed time=0.000307373 GDOF/s=3.41141 GB/s=360.084 GFLOPS/s=916.576
+word size: 8 bytes
+active occa mode: CUDA
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.81899e-11
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=16 Nelements=512 elapsed time=0.000533862 GDOF/s=3.92827 GB/s=414.64 GFLOPS/s=1055.45
+word size: 8 bytes
+active occa mode: CUDA
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.63709e-11
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=16 Nelements=1024 elapsed time=0.000987472 GDOF/s=4.24752 GB/s=448.337 GFLOPS/s=1141.22
+word size: 8 bytes
+active occa mode: CUDA
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.18279e-11
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=16 Nelements=2048 elapsed time=0.00177293 GDOF/s=4.73148 GB/s=499.421 GFLOPS/s=1271.25
+word size: 8 bytes
+active occa mode: CUDA
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.18279e-11
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=16 Nelements=4096 elapsed time=0.00374527 GDOF/s=4.47958 GB/s=472.832 GFLOPS/s=1203.57
+word size: 8 bytes
+active occa mode: CUDA
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.18279e-11
+MPItasks=1 OMPthreads=8 NRepetitions=100 Ndim=1 N=16 Nelements=8192 elapsed time=0.00714776 GDOF/s=4.6944 GB/s=495.506 GFLOPS/s=1261.29
+word size: 8 bytes
+active occa mode: CUDA
