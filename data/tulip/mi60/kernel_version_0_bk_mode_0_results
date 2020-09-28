@@ -1,0 +1,936 @@
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 2.13163e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=3 Nelements=32 elapsed time=1.12867e-05 GDOF/s=0.07655 GB/s=15.9678 GFLOPS/s=12.3387
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 2.13163e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=3 Nelements=32 elapsed time=3.46804e-05 GDOF/s=0.0747397 GB/s=7.08643 GFLOPS/s=12.0469
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 2.13163e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=3 Nelements=64 elapsed time=1.20759e-05 GDOF/s=0.143095 GB/s=29.8485 GFLOPS/s=23.0648
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 2.13163e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=3 Nelements=64 elapsed time=3.45778e-05 GDOF/s=0.149923 GB/s=14.2149 GFLOPS/s=24.1653
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.42109e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=3 Nelements=128 elapsed time=1.19376e-05 GDOF/s=0.289505 GB/s=60.3886 GFLOPS/s=46.6639
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.42109e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=3 Nelements=128 elapsed time=3.48353e-05 GDOF/s=0.297629 GB/s=28.2196 GFLOPS/s=47.9734
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 2.13163e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=3 Nelements=256 elapsed time=1.27196e-05 GDOF/s=0.543412 GB/s=113.352 GFLOPS/s=87.59
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 2.13163e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=3 Nelements=256 elapsed time=4.24862e-05 GDOF/s=0.488064 GB/s=46.2757 GFLOPS/s=78.6688
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 2.13163e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=3 Nelements=512 elapsed time=1.94788e-05 GDOF/s=0.709695 GB/s=148.037 GFLOPS/s=114.392
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 2.13163e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=3 Nelements=512 elapsed time=7.94935e-05 GDOF/s=0.521703 GB/s=49.4652 GFLOPS/s=84.0908
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 2.84217e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=3 Nelements=1024 elapsed time=3.5367e-05 GDOF/s=0.781745 GB/s=163.066 GFLOPS/s=126.006
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 2.84217e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=3 Nelements=1024 elapsed time=0.000145352 GDOF/s=0.570643 GB/s=54.1054 GFLOPS/s=91.9792
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 2.84217e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=3 Nelements=2048 elapsed time=6.28567e-05 GDOF/s=0.879716 GB/s=183.502 GFLOPS/s=141.797
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 2.84217e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=3 Nelements=2048 elapsed time=0.000279129 GDOF/s=0.594307 GB/s=56.3491 GFLOPS/s=95.7935
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 2.84217e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=3 Nelements=4096 elapsed time=0.000112317 GDOF/s=0.984645 GB/s=205.39 GFLOPS/s=158.71
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 3.55271e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=3 Nelements=4096 elapsed time=0.000546813 GDOF/s=0.606745 GB/s=57.5284 GFLOPS/s=97.7983
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 4.26326e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=3 Nelements=8192 elapsed time=0.00020546 GDOF/s=1.07653 GB/s=224.557 GFLOPS/s=173.521
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 2.84217e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=3 Nelements=8192 elapsed time=0.001084 GDOF/s=0.612134 GB/s=58.0393 GFLOPS/s=98.6669
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 2.84217e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=4 Nelements=32 elapsed time=2.11835e-05 GDOF/s=0.0966791 GB/s=16.6167 GFLOPS/s=15.1061
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 4.26326e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=4 Nelements=32 elapsed time=0.000537684 GDOF/s=0.0114268 GB/s=0.892718 GFLOPS/s=1.78544
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 5.68434e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=4 Nelements=64 elapsed time=2.11978e-05 GDOF/s=0.193228 GB/s=33.211 GFLOPS/s=30.1918
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 4.26326e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=4 Nelements=64 elapsed time=0.000513813 GDOF/s=0.0239153 GB/s=1.86838 GFLOPS/s=3.73676
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 5.68434e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=4 Nelements=128 elapsed time=2.15912e-05 GDOF/s=0.379414 GB/s=65.2118 GFLOPS/s=59.2834
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 8.52651e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=4 Nelements=128 elapsed time=0.000509541 GDOF/s=0.0482316 GB/s=3.7681 GFLOPS/s=7.53619
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 5.68434e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=4 Nelements=256 elapsed time=3.00074e-05 GDOF/s=0.545999 GB/s=93.8436 GFLOPS/s=85.3124
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 5.68434e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=4 Nelements=256 elapsed time=0.000505559 GDOF/s=0.097223 GB/s=7.59555 GFLOPS/s=15.1911
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 5.68434e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=4 Nelements=512 elapsed time=5.47099e-05 GDOF/s=0.598941 GB/s=102.943 GFLOPS/s=93.5845
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 5.68434e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=4 Nelements=512 elapsed time=0.000590467 GDOF/s=0.166485 GB/s=13.0066 GFLOPS/s=26.0133
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 5.68434e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=4 Nelements=1024 elapsed time=9.66763e-05 GDOF/s=0.677891 GB/s=116.512 GFLOPS/s=105.92
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 5.68434e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=4 Nelements=1024 elapsed time=0.000809364 GDOF/s=0.242917 GB/s=18.9779 GFLOPS/s=37.9557
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 8.52651e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=4 Nelements=2048 elapsed time=0.000177836 GDOF/s=0.737037 GB/s=126.678 GFLOPS/s=115.162
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 8.52651e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=4 Nelements=2048 elapsed time=0.00124628 GDOF/s=0.315513 GB/s=24.6494 GFLOPS/s=49.2989
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 8.52651e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=4 Nelements=4096 elapsed time=0.000340724 GDOF/s=0.769373 GB/s=132.236 GFLOPS/s=120.215
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 5.68434e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=4 Nelements=4096 elapsed time=0.00212184 GDOF/s=0.370637 GB/s=28.956 GFLOPS/s=57.9121
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 7.10543e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=4 Nelements=8192 elapsed time=0.000656607 GDOF/s=0.79848 GB/s=137.239 GFLOPS/s=124.763
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 8.52651e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=4 Nelements=8192 elapsed time=0.00378151 GDOF/s=0.415935 GB/s=32.495 GFLOPS/s=64.9899
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 8.52651e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=5 Nelements=32 elapsed time=4.3478e-05 GDOF/s=0.0920005 GB/s=13.99 GFLOPS/s=14.6259
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.13687e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=5 Nelements=32 elapsed time=0.000537229 GDOF/s=0.0223369 GB/s=1.54392 GFLOPS/s=3.55102
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.13687e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=5 Nelements=64 elapsed time=4.90999e-05 GDOF/s=0.162933 GB/s=24.7763 GFLOPS/s=25.9024
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.7053e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=5 Nelements=64 elapsed time=0.000554812 GDOF/s=0.0432579 GB/s=2.98999 GFLOPS/s=6.87697
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.13687e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=5 Nelements=128 elapsed time=7.94911e-05 GDOF/s=0.20128 GB/s=30.6075 GFLOPS/s=31.9987
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.13687e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=5 Nelements=128 elapsed time=0.000559161 GDOF/s=0.0858429 GB/s=5.93346 GFLOPS/s=13.647
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.98952e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=5 Nelements=256 elapsed time=8.94904e-05 GDOF/s=0.35758 GB/s=54.3751 GFLOPS/s=56.8467
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.7053e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=5 Nelements=256 elapsed time=0.000602751 GDOF/s=0.15927 GB/s=11.0087 GFLOPS/s=25.3201
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 2.27374e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=5 Nelements=512 elapsed time=0.00016185 GDOF/s=0.395427 GB/s=60.1302 GFLOPS/s=62.8634
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 2.27374e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=5 Nelements=512 elapsed time=0.000786703 GDOF/s=0.244057 GB/s=16.8692 GFLOPS/s=38.7991
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.13687e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=5 Nelements=1024 elapsed time=0.000306706 GDOF/s=0.417337 GB/s=63.462 GFLOPS/s=66.3466
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.7053e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=5 Nelements=1024 elapsed time=0.00120205 GDOF/s=0.319453 GB/s=22.0806 GFLOPS/s=50.7854
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.7053e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=5 Nelements=2048 elapsed time=0.000594399 GDOF/s=0.430687 GB/s=65.492 GFLOPS/s=68.4689
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.7053e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=5 Nelements=2048 elapsed time=0.00201481 GDOF/s=0.381177 GB/s=26.347 GFLOPS/s=60.598
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.7053e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=5 Nelements=4096 elapsed time=0.00117276 GDOF/s=0.436577 GB/s=66.3877 GFLOPS/s=69.4053
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.7053e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=5 Nelements=4096 elapsed time=0.00362622 GDOF/s=0.423581 GB/s=29.2779 GFLOPS/s=67.3393
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.7053e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=5 Nelements=8192 elapsed time=0.00232893 GDOF/s=0.439687 GB/s=66.8606 GFLOPS/s=69.8997
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.7053e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=5 Nelements=8192 elapsed time=0.00680766 GDOF/s=0.451257 GB/s=31.1909 GFLOPS/s=71.739
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.7053e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=6 Nelements=32 elapsed time=0.000491667 GDOF/s=0.0140583 GB/s=1.96452 GFLOPS/s=2.3217
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 2.27374e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=6 Nelements=32 elapsed time=0.00331701 GDOF/s=0.00625142 GB/s=0.397081 GFLOPS/s=1.03241
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.7053e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=6 Nelements=64 elapsed time=0.00050679 GDOF/s=0.0272776 GB/s=3.81179 GFLOPS/s=4.50484
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.98952e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=6 Nelements=64 elapsed time=0.00327726 GDOF/s=0.0126545 GB/s=0.803793 GFLOPS/s=2.08986
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 2.27374e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=6 Nelements=128 elapsed time=0.00063565 GDOF/s=0.0434956 GB/s=6.07811 GFLOPS/s=7.18322
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 2.27374e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=6 Nelements=128 elapsed time=0.00326169 GDOF/s=0.0254298 GB/s=1.61526 GFLOPS/s=4.19968
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 2.27374e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=6 Nelements=256 elapsed time=0.000544 GDOF/s=0.101647 GB/s=14.2042 GFLOPS/s=16.7868
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 2.27374e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=6 Nelements=256 elapsed time=0.00340672 GDOF/s=0.0486944 GB/s=3.093 GFLOPS/s=8.04179
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 2.55795e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=6 Nelements=512 elapsed time=0.00069 GDOF/s=0.160278 GB/s=22.3974 GFLOPS/s=26.4697
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 2.27374e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=6 Nelements=512 elapsed time=0.00334942 GDOF/s=0.0990547 GB/s=6.29181 GFLOPS/s=16.3587
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 2.27374e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=6 Nelements=1024 elapsed time=0.0010994 GDOF/s=0.201186 GB/s=28.1139 GFLOPS/s=33.2255
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 2.27374e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=6 Nelements=1024 elapsed time=0.00312212 GDOF/s=0.212532 GB/s=13.4997 GFLOPS/s=35.0993
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 2.27374e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=6 Nelements=2048 elapsed time=0.00154669 GDOF/s=0.286009 GB/s=39.9672 GFLOPS/s=47.2339
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 3.41061e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=6 Nelements=2048 elapsed time=0.00309652 GDOF/s=0.428579 GB/s=27.2227 GFLOPS/s=70.779
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 3.41061e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=6 Nelements=4096 elapsed time=0.00269464 GDOF/s=0.328332 GB/s=45.8813 GFLOPS/s=54.2234
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 3.41061e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=6 Nelements=4096 elapsed time=0.00559955 GDOF/s=0.474004 GB/s=30.108 GFLOPS/s=78.2808
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 3.41061e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=6 Nelements=8192 elapsed time=0.00489928 GDOF/s=0.36117 GB/s=50.4701 GFLOPS/s=59.6465
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 3.41061e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=6 Nelements=8192 elapsed time=0.0107344 GDOF/s=0.494524 GB/s=31.4115 GFLOPS/s=81.6698
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 2.84217e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=7 Nelements=32 elapsed time=0.000543475 GDOF/s=0.020196 GB/s=2.65291 GFLOPS/s=3.49702
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 4.54747e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=7 Nelements=32 elapsed time=0.0091708 GDOF/s=0.00359053 GB/s=0.214385 GFLOPS/s=0.621716
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 3.41061e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=7 Nelements=64 elapsed time=0.000576646 GDOF/s=0.0380684 GB/s=5.00061 GFLOPS/s=6.59171
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 4.54747e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=7 Nelements=64 elapsed time=0.00914391 GDOF/s=0.00720217 GB/s=0.430031 GFLOPS/s=1.24709
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 4.54747e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=7 Nelements=128 elapsed time=0.000598114 GDOF/s=0.0734041 GB/s=9.64226 GFLOPS/s=12.7103
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 4.54747e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=7 Nelements=128 elapsed time=0.00912342 GDOF/s=0.0144367 GB/s=0.861992 GFLOPS/s=2.49978
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 4.54747e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=7 Nelements=256 elapsed time=0.000641098 GDOF/s=0.136965 GB/s=17.9915 GFLOPS/s=23.7161
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 4.54747e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=7 Nelements=256 elapsed time=0.00910514 GDOF/s=0.0289314 GB/s=1.72745 GFLOPS/s=5.0096
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 3.41061e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=7 Nelements=512 elapsed time=0.000845978 GDOF/s=0.207589 GB/s=27.2686 GFLOPS/s=35.945
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 4.54747e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=7 Nelements=512 elapsed time=0.00872144 GDOF/s=0.0604084 GB/s=3.60689 GFLOPS/s=10.46
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 6.82121e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=7 Nelements=1024 elapsed time=0.00124319 GDOF/s=0.282526 GB/s=37.1122 GFLOPS/s=48.9206
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 6.82121e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=7 Nelements=1024 elapsed time=0.00833352 GDOF/s=0.126441 GB/s=7.54958 GFLOPS/s=21.8938
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 5.68434e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=7 Nelements=2048 elapsed time=0.00199872 GDOF/s=0.351457 GB/s=46.1669 GFLOPS/s=60.8564
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 9.09495e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=7 Nelements=2048 elapsed time=0.0080584 GDOF/s=0.261515 GB/s=15.6147 GFLOPS/s=45.2825
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 4.54747e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=7 Nelements=4096 elapsed time=0.00349952 GDOF/s=0.401463 GB/s=52.7356 GFLOPS/s=69.5151
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 5.11591e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=7 Nelements=4096 elapsed time=0.00829657 GDOF/s=0.508015 GB/s=30.3328 GFLOPS/s=87.9651
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 6.82121e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=7 Nelements=8192 elapsed time=0.00657553 GDOF/s=0.42732 GB/s=56.1322 GFLOPS/s=73.9924
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.02318e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=7 Nelements=8192 elapsed time=0.014129 GDOF/s=0.596613 GB/s=35.6228 GFLOPS/s=103.306
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 4.54747e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=8 Nelements=32 elapsed time=0.000574024 GDOF/s=0.0285424 GB/s=3.57627 GFLOPS/s=5.20185
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 4.54747e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=8 Nelements=32 elapsed time=0.0180235 GDOF/s=0.00272711 GB/s=0.155317 GFLOPS/s=0.497015
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 6.82121e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=8 Nelements=64 elapsed time=0.000727372 GDOF/s=0.0450498 GB/s=5.6446 GFLOPS/s=8.21033
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 6.82121e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=8 Nelements=64 elapsed time=0.0180029 GDOF/s=0.00546045 GB/s=0.31099 GFLOPS/s=0.995166
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 6.82121e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=8 Nelements=128 elapsed time=0.000655384 GDOF/s=0.0999963 GB/s=12.5292 GFLOPS/s=18.2243
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.02318e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=8 Nelements=128 elapsed time=0.0179816 GDOF/s=0.0109339 GB/s=0.622717 GFLOPS/s=1.9927
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 9.09495e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=8 Nelements=256 elapsed time=0.000889895 GDOF/s=0.147289 GB/s=18.4549 GFLOPS/s=26.8435
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 6.82121e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=8 Nelements=256 elapsed time=0.0175185 GDOF/s=0.0224458 GB/s=1.27836 GFLOPS/s=4.09075
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 9.09495e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=8 Nelements=512 elapsed time=0.00147015 GDOF/s=0.178311 GB/s=22.3418 GFLOPS/s=32.4971
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 9.09495e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=8 Nelements=512 elapsed time=0.0168996 GDOF/s=0.0465356 GB/s=2.65035 GFLOPS/s=8.48111
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 9.09495e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=8 Nelements=1024 elapsed time=0.00231111 GDOF/s=0.226856 GB/s=28.4243 GFLOPS/s=41.3444
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 9.09495e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=8 Nelements=1024 elapsed time=0.0163134 GDOF/s=0.0964154 GB/s=5.49116 GFLOPS/s=17.5717
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 9.09495e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=8 Nelements=2048 elapsed time=0.00416186 GDOF/s=0.251949 GB/s=31.5684 GFLOPS/s=45.9177
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.13687e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=8 Nelements=2048 elapsed time=0.0158438 GDOF/s=0.198547 GB/s=11.3079 GFLOPS/s=36.1851
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.13687e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=8 Nelements=4096 elapsed time=0.00803268 GDOF/s=0.261077 GB/s=32.7122 GFLOPS/s=47.5814
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.13687e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=8 Nelements=4096 elapsed time=0.0192619 GDOF/s=0.326628 GB/s=18.6025 GFLOPS/s=59.5279
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 2.27374e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=8 Nelements=8192 elapsed time=0.015082 GDOF/s=0.278099 GB/s=34.845 GFLOPS/s=50.6836
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.81899e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=8 Nelements=8192 elapsed time=0.0378511 GDOF/s=0.332432 GB/s=18.933 GFLOPS/s=60.5857
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 6.82121e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=9 Nelements=32 elapsed time=0.00369705 GDOF/s=0.00630989 GB/s=0.761688 GFLOPS/s=1.21178
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 9.09495e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=9 Nelements=32 elapsed time=0.0232246 GDOF/s=0.00301336 GB/s=0.165342 GFLOPS/s=0.578697
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.02318e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=9 Nelements=64 elapsed time=0.00365963 GDOF/s=0.0127488 GB/s=1.53896 GFLOPS/s=2.44834
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 9.09495e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=9 Nelements=64 elapsed time=0.0232107 GDOF/s=0.00603033 GB/s=0.330882 GFLOPS/s=1.15809
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.36424e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=9 Nelements=128 elapsed time=0.00363273 GDOF/s=0.0256865 GB/s=3.1007 GFLOPS/s=4.93293
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.36424e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=9 Nelements=128 elapsed time=0.0231802 GDOF/s=0.0120765 GB/s=0.662635 GFLOPS/s=2.31922
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.13687e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=9 Nelements=256 elapsed time=0.00356904 GDOF/s=0.0522897 GB/s=6.31206 GFLOPS/s=10.0419
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.13687e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=9 Nelements=256 elapsed time=0.022322 GDOF/s=0.0250816 GB/s=1.37622 GFLOPS/s=4.81677
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.13687e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=9 Nelements=512 elapsed time=0.0033491 GDOF/s=0.111447 GB/s=13.4532 GFLOPS/s=21.4028
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.36424e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=9 Nelements=512 elapsed time=0.0217184 GDOF/s=0.0515575 GB/s=2.82894 GFLOPS/s=9.9013
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.13687e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=9 Nelements=1024 elapsed time=0.00330554 GDOF/s=0.225832 GB/s=27.2609 GFLOPS/s=43.3696
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.36424e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=9 Nelements=1024 elapsed time=0.0210605 GDOF/s=0.106336 GB/s=5.83462 GFLOPS/s=20.4212
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.36424e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=9 Nelements=2048 elapsed time=0.00570713 GDOF/s=0.261601 GB/s=31.5788 GFLOPS/s=50.2389
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.36424e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=9 Nelements=2048 elapsed time=0.020403 GDOF/s=0.219525 GB/s=12.0453 GFLOPS/s=42.1585
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 2.04636e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=9 Nelements=4096 elapsed time=0.0110283 GDOF/s=0.270757 GB/s=32.6839 GFLOPS/s=51.9971
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.81899e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=9 Nelements=4096 elapsed time=0.0233358 GDOF/s=0.383872 GB/s=21.0629 GFLOPS/s=73.7202
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 2.04636e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=9 Nelements=8192 elapsed time=0.0210746 GDOF/s=0.283372 GB/s=34.2068 GFLOPS/s=54.4199
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.81899e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=9 Nelements=8192 elapsed time=0.0459849 GDOF/s=0.389604 GB/s=21.3775 GFLOPS/s=74.8211
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.36424e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=10 Nelements=32 elapsed time=0.00837631 GDOF/s=0.0038203 GB/s=0.447464 GFLOPS/s=0.772893
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.36424e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=10 Nelements=32 elapsed time=0.0351973 GDOF/s=0.00272749 GB/s=0.145211 GFLOPS/s=0.551803
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.36424e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=10 Nelements=64 elapsed time=0.00835251 GDOF/s=0.00766237 GB/s=0.897478 GFLOPS/s=1.55019
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.81899e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=10 Nelements=64 elapsed time=0.0351845 GDOF/s=0.00545695 GB/s=0.290528 GFLOPS/s=1.10401
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.81899e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=10 Nelements=128 elapsed time=0.00833184 GDOF/s=0.0153628 GB/s=1.79941 GFLOPS/s=3.10807
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.81899e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=10 Nelements=128 elapsed time=0.0344032 GDOF/s=0.0111618 GB/s=0.594252 GFLOPS/s=2.25816
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.81899e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=10 Nelements=256 elapsed time=0.00799341 GDOF/s=0.0320264 GB/s=3.75119 GFLOPS/s=6.47932
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 2.27374e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=10 Nelements=256 elapsed time=0.0337237 GDOF/s=0.0227733 GB/s=1.21245 GFLOPS/s=4.60731
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 2.27374e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=10 Nelements=512 elapsed time=0.00759736 GDOF/s=0.0673918 GB/s=7.89347 GFLOPS/s=13.6342
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 2.27374e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=10 Nelements=512 elapsed time=0.0329506 GDOF/s=0.0466152 GB/s=2.48179 GFLOPS/s=9.43082
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 2.27374e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=10 Nelements=1024 elapsed time=0.00738754 GDOF/s=0.138612 GB/s=16.2353 GFLOPS/s=28.0428
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 2.50111e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=10 Nelements=1024 elapsed time=0.0325099 GDOF/s=0.0944942 GB/s=5.03087 GFLOPS/s=19.1173
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.81899e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=10 Nelements=2048 elapsed time=0.00742931 GDOF/s=0.275665 GB/s=32.2881 GFLOPS/s=55.7703
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 3.63798e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=10 Nelements=2048 elapsed time=0.0313673 GDOF/s=0.195873 GB/s=10.4283 GFLOPS/s=39.6274
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 2.72848e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=10 Nelements=4096 elapsed time=0.014096 GDOF/s=0.29058 GB/s=34.035 GFLOPS/s=58.7878
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 2.72848e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=10 Nelements=4096 elapsed time=0.0342434 GDOF/s=0.358842 GB/s=19.1048 GFLOPS/s=72.5981
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 3.18323e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=10 Nelements=8192 elapsed time=0.0271727 GDOF/s=0.301479 GB/s=35.3116 GFLOPS/s=60.9927
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 2.72848e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=10 Nelements=8192 elapsed time=0.0673039 GDOF/s=0.36515 GB/s=19.4406 GFLOPS/s=73.8742
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.81899e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=11 Nelements=32 elapsed time=0.0131962 GDOF/s=0.00322759 GB/s=0.368746 GFLOPS/s=0.687208
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 3.63798e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=11 Nelements=32 elapsed time=0.0508447 GDOF/s=0.00251306 GB/s=0.130506 GFLOPS/s=0.535073
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 2.72848e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=11 Nelements=64 elapsed time=0.013152 GDOF/s=0.0064769 GB/s=0.739973 GFLOPS/s=1.37904
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 4.09273e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=11 Nelements=64 elapsed time=0.0508249 GDOF/s=0.00502809 GB/s=0.261113 GFLOPS/s=1.07056
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 2.50111e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=11 Nelements=128 elapsed time=0.0131132 GDOF/s=0.0129921 GB/s=1.48432 GFLOPS/s=2.76624
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 3.63798e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=11 Nelements=128 elapsed time=0.0496324 GDOF/s=0.0102978 GB/s=0.534773 GFLOPS/s=2.19257
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 2.27374e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=11 Nelements=256 elapsed time=0.0124769 GDOF/s=0.0273092 GB/s=3.12003 GFLOPS/s=5.81459
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 3.63798e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=11 Nelements=256 elapsed time=0.0488712 GDOF/s=0.0209164 GB/s=1.08621 GFLOPS/s=4.45344
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 2.72848e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=11 Nelements=512 elapsed time=0.0120149 GDOF/s=0.0567191 GB/s=6.48004 GFLOPS/s=12.0764
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 3.63798e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=11 Nelements=512 elapsed time=0.0479489 GDOF/s=0.0426374 GB/s=2.2142 GFLOPS/s=9.0782
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 2.72848e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=11 Nelements=1024 elapsed time=0.0118602 GDOF/s=0.114917 GB/s=13.1291 GFLOPS/s=24.4678
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 4.54747e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=11 Nelements=1024 elapsed time=0.0468249 GDOF/s=0.0873217 GB/s=4.53469 GFLOPS/s=18.5922
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 3.63798e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=11 Nelements=2048 elapsed time=0.0154877 GDOF/s=0.176003 GB/s=20.108 GFLOPS/s=37.474
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 5.45697e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=11 Nelements=2048 elapsed time=0.0452838 GDOF/s=0.180587 GB/s=9.37805 GFLOPS/s=38.45
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 3.63798e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=11 Nelements=4096 elapsed time=0.0304146 GDOF/s=0.179249 GB/s=20.4788 GFLOPS/s=38.165
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 4.54747e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=11 Nelements=4096 elapsed time=0.0510015 GDOF/s=0.320683 GB/s=16.6534 GFLOPS/s=68.2787
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 3.63798e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=11 Nelements=8192 elapsed time=0.0599433 GDOF/s=0.181898 GB/s=20.7815 GFLOPS/s=38.7291
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 6.36646e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=11 Nelements=8192 elapsed time=0.0989642 GDOF/s=0.33053 GB/s=17.1647 GFLOPS/s=70.3754
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 2.72848e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=12 Nelements=32 elapsed time=0.0188087 GDOF/s=0.00293991 GB/s=0.32893 GFLOPS/s=0.657859
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 4.54747e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=12 Nelements=32 elapsed time=0.000751214 GDOF/s=0.220827 GB/s=11.2305 GFLOPS/s=49.414
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 3.63798e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=12 Nelements=64 elapsed time=0.0187842 GDOF/s=0.00588749 GB/s=0.658717 GFLOPS/s=1.31743
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 9.09495e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=12 Nelements=64 elapsed time=0.00105145 GDOF/s=0.31554 GB/s=16.0473 GFLOPS/s=70.6079
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 3.63798e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=12 Nelements=128 elapsed time=0.0183805 GDOF/s=0.0120336 GB/s=1.34638 GFLOPS/s=2.69275
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 6.82121e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=12 Nelements=128 elapsed time=0.00181781 GDOF/s=0.365029 GB/s=18.5641 GFLOPS/s=81.682
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 3.63798e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=12 Nelements=256 elapsed time=0.0176872 GDOF/s=0.0250106 GB/s=2.7983 GFLOPS/s=5.59659
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 5.45697e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=12 Nelements=256 elapsed time=0.00296882 GDOF/s=0.447014 GB/s=22.7335 GFLOPS/s=100.028
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 3.63798e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=12 Nelements=512 elapsed time=0.0171094 GDOF/s=0.0517104 GB/s=5.78558 GFLOPS/s=11.5712
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 5.45697e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=12 Nelements=512 elapsed time=0.0054773 GDOF/s=0.484583 GB/s=24.6442 GFLOPS/s=108.434
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 3.63798e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=12 Nelements=1024 elapsed time=0.0165348 GDOF/s=0.107015 GB/s=11.9733 GFLOPS/s=23.9466
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 5.45697e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=12 Nelements=1024 elapsed time=0.0106054 GDOF/s=0.500537 GB/s=25.4555 GFLOPS/s=112.004
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 5.91172e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=12 Nelements=2048 elapsed time=0.018871 GDOF/s=0.187534 GB/s=20.9821 GFLOPS/s=41.9642
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 7.27596e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=12 Nelements=2048 elapsed time=0.0202632 GDOF/s=0.523947 GB/s=26.6461 GFLOPS/s=117.243
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 4.54747e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=12 Nelements=4096 elapsed time=0.0371923 GDOF/s=0.190305 GB/s=21.2921 GFLOPS/s=42.5843
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 7.27596e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=12 Nelements=4096 elapsed time=0.0391507 GDOF/s=0.542357 GB/s=27.5824 GFLOPS/s=121.362
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 5.45697e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=12 Nelements=8192 elapsed time=0.0733272 GDOF/s=0.19305 GB/s=21.5992 GFLOPS/s=43.1984
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 7.27596e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=12 Nelements=8192 elapsed time=0.077196 GDOF/s=0.550124 GB/s=27.9773 GFLOPS/s=123.1
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 3.63798e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=13 Nelements=32 elapsed time=0.0243836 GDOF/s=0.00288325 GB/s=0.316897 GFLOPS/s=0.677008
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 5.45697e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=13 Nelements=32 elapsed time=0.0620928 GDOF/s=0.00339672 GB/s=0.169697 GFLOPS/s=0.797576
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 7.27596e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=13 Nelements=64 elapsed time=0.024363 GDOF/s=0.00577136 GB/s=0.63433 GFLOPS/s=1.35516
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 7.27596e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=13 Nelements=64 elapsed time=0.0608466 GDOF/s=0.00693258 GB/s=0.346345 GFLOPS/s=1.62782
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 4.54747e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=13 Nelements=128 elapsed time=0.0235677 GDOF/s=0.0119323 GB/s=1.31147 GFLOPS/s=2.80178
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 7.27596e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=13 Nelements=128 elapsed time=0.0600612 GDOF/s=0.0140465 GB/s=0.701748 GFLOPS/s=3.29822
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 4.54747e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=13 Nelements=256 elapsed time=0.0233176 GDOF/s=0.0241205 GB/s=2.65108 GFLOPS/s=5.66366
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 7.27596e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=13 Nelements=256 elapsed time=0.059186 GDOF/s=0.0285084 GB/s=1.42425 GFLOPS/s=6.69398
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 5.45697e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=13 Nelements=512 elapsed time=0.022616 GDOF/s=0.0497375 GB/s=5.46665 GFLOPS/s=11.6787
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 9.09495e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=13 Nelements=512 elapsed time=0.0581105 GDOF/s=0.058072 GB/s=2.90122 GFLOPS/s=13.6357
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 5.68434e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=13 Nelements=1024 elapsed time=0.0217654 GDOF/s=0.103363 GB/s=11.3606 GFLOPS/s=24.2703
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 7.7307e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=13 Nelements=1024 elapsed time=0.057361 GDOF/s=0.117662 GB/s=5.87826 GFLOPS/s=27.6278
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 6.36646e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=13 Nelements=2048 elapsed time=0.0228411 GDOF/s=0.196989 GB/s=21.651 GFLOPS/s=46.2545
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.09139e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=13 Nelements=2048 elapsed time=0.0552841 GDOF/s=0.244164 GB/s=12.1982 GFLOPS/s=57.3314
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 7.27596e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=13 Nelements=4096 elapsed time=0.0451133 GDOF/s=0.199474 GB/s=21.9241 GFLOPS/s=46.8379
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.27329e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=13 Nelements=4096 elapsed time=0.0771289 GDOF/s=0.350021 GB/s=17.4867 GFLOPS/s=82.1875
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.09139e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=13 Nelements=8192 elapsed time=0.0883958 GDOF/s=0.203605 GB/s=22.3782 GFLOPS/s=47.808
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.09139e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=13 Nelements=8192 elapsed time=0.151567 GDOF/s=0.356234 GB/s=17.7971 GFLOPS/s=83.6464
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 7.27596e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=14 Nelements=32 elapsed time=0.0311081 GDOF/s=0.00282267 GB/s=0.305515 GFLOPS/s=0.694353
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 7.27596e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=14 Nelements=32 elapsed time=0.0418416 GDOF/s=0.00629574 GB/s=0.309739 GFLOPS/s=1.5487
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 7.27596e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=14 Nelements=64 elapsed time=0.0309975 GDOF/s=0.00566549 GB/s=0.613211 GFLOPS/s=1.39366
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.09139e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=14 Nelements=64 elapsed time=0.0408703 GDOF/s=0.0128907 GB/s=0.634202 GFLOPS/s=3.17101
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 5.45697e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=14 Nelements=128 elapsed time=0.0299054 GDOF/s=0.0117448 GB/s=1.27121 GFLOPS/s=2.88911
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.09139e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=14 Nelements=128 elapsed time=0.0401448 GDOF/s=0.0262474 GB/s=1.29133 GFLOPS/s=6.45663
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 7.27596e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=14 Nelements=256 elapsed time=0.0292535 GDOF/s=0.024013 GB/s=2.59907 GFLOPS/s=5.90698
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.09139e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=14 Nelements=256 elapsed time=0.0392704 GDOF/s=0.0536637 GB/s=2.64016 GFLOPS/s=13.2008
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 7.27596e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=14 Nelements=512 elapsed time=0.0284264 GDOF/s=0.0494233 GB/s=5.34939 GFLOPS/s=12.1577
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.27329e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=14 Nelements=512 elapsed time=0.0382059 GDOF/s=0.110318 GB/s=5.42743 GFLOPS/s=27.1371
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.00044e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=14 Nelements=1024 elapsed time=0.0274367 GDOF/s=0.102412 GB/s=11.0847 GFLOPS/s=25.1926
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.18234e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=14 Nelements=1024 elapsed time=0.0371901 GDOF/s=0.226661 GB/s=11.1513 GFLOPS/s=55.7567
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.00044e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=14 Nelements=2048 elapsed time=0.027465 GDOF/s=0.204613 GB/s=22.1466 GFLOPS/s=50.3331
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.45519e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=14 Nelements=2048 elapsed time=0.0482594 GDOF/s=0.349344 GB/s=17.1871 GFLOPS/s=85.9356
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.18234e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=14 Nelements=4096 elapsed time=0.0538749 GDOF/s=0.208621 GB/s=22.5803 GFLOPS/s=51.3189
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.45519e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=14 Nelements=4096 elapsed time=0.0937741 GDOF/s=0.359569 GB/s=17.6902 GFLOPS/s=88.4508
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.09139e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=14 Nelements=8192 elapsed time=0.105939 GDOF/s=0.212186 GB/s=22.9662 GFLOPS/s=52.196
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.81899e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=14 Nelements=8192 elapsed time=0.18437 GDOF/s=0.365768 GB/s=17.9952 GFLOPS/s=89.9758
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 7.27596e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=15 Nelements=32 elapsed time=0.0378932 GDOF/s=0.00285011 GB/s=0.30439 GFLOPS/s=0.733304
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.00044e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=15 Nelements=32 elapsed time=0.0334315 GDOF/s=0.00969147 GB/s=0.470474 GFLOPS/s=2.49351
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 8.18545e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=15 Nelements=64 elapsed time=0.0372218 GDOF/s=0.00580304 GB/s=0.619762 GFLOPS/s=1.49306
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.18234e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=15 Nelements=64 elapsed time=0.0326384 GDOF/s=0.0198539 GB/s=0.963811 GFLOPS/s=5.1082
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.09139e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=15 Nelements=128 elapsed time=0.0363929 GDOF/s=0.0118705 GB/s=1.26776 GFLOPS/s=3.05415
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 2.18279e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=15 Nelements=128 elapsed time=0.03192 GDOF/s=0.0406015 GB/s=1.97101 GFLOPS/s=10.4463
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.09139e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=15 Nelements=256 elapsed time=0.0357159 GDOF/s=0.0241909 GB/s=2.58357 GFLOPS/s=6.22406
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.09139e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=15 Nelements=256 elapsed time=0.0310307 GDOF/s=0.0835301 GB/s=4.05499 GFLOPS/s=21.4914
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 9.09495e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=15 Nelements=512 elapsed time=0.0347806 GDOF/s=0.0496828 GB/s=5.3061 GFLOPS/s=12.7829
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.81899e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=15 Nelements=512 elapsed time=0.0301103 GDOF/s=0.172167 GB/s=8.35789 GFLOPS/s=44.2968
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.09139e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=15 Nelements=1024 elapsed time=0.0336457 GDOF/s=0.102717 GB/s=10.9702 GFLOPS/s=26.4281
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.45519e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=15 Nelements=1024 elapsed time=0.0327129 GDOF/s=0.316939 GB/s=15.3859 GFLOPS/s=81.545
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.45519e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=15 Nelements=2048 elapsed time=0.0334278 GDOF/s=0.206774 GB/s=22.0833 GFLOPS/s=53.2008
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 2.18279e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=15 Nelements=2048 elapsed time=0.0646133 GDOF/s=0.320925 GB/s=15.5793 GFLOPS/s=82.5705
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.36424e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=15 Nelements=4096 elapsed time=0.0632494 GDOF/s=0.218563 GB/s=23.3424 GFLOPS/s=56.2341
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 2.18279e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=15 Nelements=4096 elapsed time=0.127967 GDOF/s=0.324083 GB/s=15.7327 GFLOPS/s=83.3831
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 1.45519e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=15 Nelements=8192 elapsed time=0.124409 GDOF/s=0.222235 GB/s=23.7346 GFLOPS/s=57.1788
+word size: 8 bytes
+active occa mode: HIP
+Correctness check: maxError = 2.18279e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=15 Nelements=8192 elapsed time=0.253859 GDOF/s=0.326733 GB/s=15.8613 GFLOPS/s=84.0649
