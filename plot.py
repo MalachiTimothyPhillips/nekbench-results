@@ -72,8 +72,8 @@ def generate_plot(filename,ndim,xlim,ylim,bkmode, machine="V100", bw=False, styl
     plt.title(title)
     plt.xlabel("Degrees of Freedom")
     plt.ylabel(ylabel)
-    #plt.xlim(xlim)
-    #plt.ylim(ylim)
+    plt.xlim(xlim)
+    plt.ylim(ylim)
     plt.legend()
     plt.savefig(filestr,dpi=300)
     plt.clf()
@@ -89,8 +89,8 @@ for machine_name, gpu_types in machine_to_gpu.items():
     for bk_mode in [0,5]:
       for ndim in [1,3]:
         filename = f"/home/malachi/work/research/nekbench-results/data/{machine_name}/{gpu_type}/kernel_version_0_bk_mode_{bk_mode}_results"
-        generate_plot(filename,ndim,xlim=(0,1e8), ylim=(0,2000), bkmode=bk_mode, machine=gpu_type, bw=False)
-        generate_plot(filename,ndim,xlim=(0,1e8), ylim=(0,700), bkmode=bk_mode, machine=gpu_type, bw=True)
+        generate_plot(filename,ndim,xlim=(1,1e8), ylim=(0,3500), bkmode=bk_mode, machine=gpu_type, bw=False)
+        generate_plot(filename,ndim,xlim=(1,1e8), ylim=(0,1300), bkmode=bk_mode, machine=gpu_type, bw=True)
 
 
 
