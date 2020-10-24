@@ -80,7 +80,8 @@ def generate_plot(filename,ndim,xlim,ylim,bkmode, machine="V100", bw=False, styl
 
 machine_to_gpu = {
   "tulip" : [ "mi60", "mi100", "v100" ],
-  "summit" : [ "v100" ]
+  "summit" : [ "v100" ],
+  "thetagpu" : ["a100"]
 }
 for machine_name, gpu_types in machine_to_gpu.items():
   for gpu_type in gpu_types:
