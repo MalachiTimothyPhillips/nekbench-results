@@ -1,0 +1,1224 @@
+[1603558473.441593] [thetagpu18:46227:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.84217e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=3 Nelements=32 elapsed time=7.97462e-06 GDOF/s=0.108344 GB/s=22.5997 GFLOPS/s=17.4634
+[1603558478.014156] [thetagpu18:46313:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.84217e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=3 Nelements=32 elapsed time=7.80909e-06 GDOF/s=0.331921 GB/s=31.471 GFLOPS/s=53.5007
+[1603558484.067403] [thetagpu18:46679:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.77636e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=3 Nelements=64 elapsed time=8.01723e-06 GDOF/s=0.215536 GB/s=44.9592 GFLOPS/s=34.7412
+[1603558486.179541] [thetagpu18:46722:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.13163e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=3 Nelements=64 elapsed time=7.84611e-06 GDOF/s=0.66071 GB/s=62.6451 GFLOPS/s=106.497
+[1603558491.018316] [thetagpu18:46928:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.13163e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=3 Nelements=128 elapsed time=8.12548e-06 GDOF/s=0.425329 GB/s=88.7204 GFLOPS/s=68.5567
+[1603558492.696246] [thetagpu18:46975:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.13163e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=3 Nelements=128 elapsed time=8.17367e-06 GDOF/s=1.26846 GB/s=120.269 GFLOPS/s=204.457
+[1603558497.511377] [thetagpu18:47106:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.84217e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=3 Nelements=256 elapsed time=8.33011e-06 GDOF/s=0.829761 GB/s=173.082 GFLOPS/s=133.745
+[1603558499.154840] [thetagpu18:47150:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.84217e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=3 Nelements=256 elapsed time=8.38809e-06 GDOF/s=2.47208 GB/s=234.389 GFLOPS/s=398.462
+[1603558503.937039] [thetagpu18:47283:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.13163e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=3 Nelements=512 elapsed time=8.60041e-06 GDOF/s=1.60737 GB/s=335.284 GFLOPS/s=259.083
+[1603558505.460852] [thetagpu18:47327:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.84217e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=3 Nelements=512 elapsed time=1.1737e-05 GDOF/s=3.53343 GB/s=335.022 GFLOPS/s=569.537
+[1603558510.053143] [thetagpu18:47461:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.84217e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=3 Nelements=1024 elapsed time=9.4476e-06 GDOF/s=2.92646 GB/s=610.437 GFLOPS/s=471.702
+[1603558511.617733] [thetagpu18:47504:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.84217e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=3 Nelements=1024 elapsed time=1.53151e-05 GDOF/s=5.41584 GB/s=513.502 GFLOPS/s=872.954
+[1603558516.351219] [thetagpu18:47637:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.84217e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=3 Nelements=2048 elapsed time=1.16427e-05 GDOF/s=4.74939 GB/s=990.688 GFLOPS/s=765.532
+[1603558517.963973] [thetagpu18:47682:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.84217e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=3 Nelements=2048 elapsed time=2.16267e-05 GDOF/s=7.6705 GB/s=727.277 GFLOPS/s=1236.37
+[1603558522.640114] [thetagpu18:47814:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.84217e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=3 Nelements=4096 elapsed time=1.92605e-05 GDOF/s=5.74191 GB/s=1197.72 GFLOPS/s=925.511
+[1603558524.258546] [thetagpu18:47857:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 4.26326e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=3 Nelements=4096 elapsed time=3.99052e-05 GDOF/s=8.3141 GB/s=788.3 GFLOPS/s=1340.11
+[1603558529.157546] [thetagpu18:47992:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 3.55271e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=3 Nelements=8192 elapsed time=4.79951e-05 GDOF/s=4.60847 GB/s=961.293 GFLOPS/s=742.817
+[1603558530.825016] [thetagpu18:48036:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 4.26326e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=3 Nelements=8192 elapsed time=7.36441e-05 GDOF/s=9.01026 GB/s=854.306 GFLOPS/s=1452.32
+[1603558535.961521] [thetagpu18:48168:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 5.68434e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=4 Nelements=32 elapsed time=9.23807e-06 GDOF/s=0.221691 GB/s=38.1032 GFLOPS/s=34.6393
+[1603558541.595447] [thetagpu18:48445:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 8.52651e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=4 Nelements=32 elapsed time=9.39731e-06 GDOF/s=0.653804 GB/s=51.0784 GFLOPS/s=102.157
+[1603558547.635431] [thetagpu18:48691:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 5.68434e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=4 Nelements=64 elapsed time=9.31071e-06 GDOF/s=0.439923 GB/s=75.6118 GFLOPS/s=68.738
+[1603558549.139733] [thetagpu18:48735:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 8.52651e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=4 Nelements=64 elapsed time=9.50767e-06 GDOF/s=1.29243 GB/s=100.971 GFLOPS/s=201.942
+[1603558553.767582] [thetagpu18:48867:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 7.10543e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=4 Nelements=128 elapsed time=9.36239e-06 GDOF/s=0.87499 GB/s=150.389 GFLOPS/s=136.717
+[1603558555.295602] [thetagpu18:48911:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 5.68434e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=4 Nelements=128 elapsed time=9.77586e-06 GDOF/s=2.51395 GB/s=196.402 GFLOPS/s=392.804
+[1603558560.125453] [thetagpu18:49041:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 7.10543e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=4 Nelements=256 elapsed time=9.70043e-06 GDOF/s=1.689 GB/s=290.296 GFLOPS/s=263.906
+[1603558561.669968] [thetagpu18:49086:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 7.10543e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=4 Nelements=256 elapsed time=1.04135e-05 GDOF/s=4.72001 GB/s=368.751 GFLOPS/s=737.502
+[1603558566.384400] [thetagpu18:49216:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 7.10543e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=4 Nelements=512 elapsed time=1.0556e-05 GDOF/s=3.10421 GB/s=533.535 GFLOPS/s=485.032
+[1603558567.959102] [thetagpu18:49260:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 7.10543e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=4 Nelements=512 elapsed time=1.50476e-05 GDOF/s=6.53288 GB/s=510.381 GFLOPS/s=1020.76
+[1603558572.624475] [thetagpu18:49391:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 7.10543e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=4 Nelements=1024 elapsed time=1.25521e-05 GDOF/s=5.22112 GB/s=897.38 GFLOPS/s=815.8
+[1603558574.185795] [thetagpu18:49435:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 8.52651e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=4 Nelements=1024 elapsed time=2.0336e-05 GDOF/s=9.66795 GB/s=755.309 GFLOPS/s=1510.62
+[1603558579.078316] [thetagpu18:49567:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 8.52651e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=4 Nelements=2048 elapsed time=1.81961e-05 GDOF/s=7.20331 GB/s=1238.07 GFLOPS/s=1125.52
+[1603558580.639841] [thetagpu18:49610:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 8.52651e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=4 Nelements=2048 elapsed time=3.29873e-05 GDOF/s=11.9202 GB/s=931.267 GFLOPS/s=1862.53
+[1603558585.483494] [thetagpu18:49742:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 8.52651e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=4 Nelements=4096 elapsed time=4.64208e-05 GDOF/s=5.64712 GB/s=970.599 GFLOPS/s=882.362
+[1603558587.073918] [thetagpu18:49789:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.13687e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=4 Nelements=4096 elapsed time=6.90687e-05 GDOF/s=11.3862 GB/s=889.549 GFLOPS/s=1779.1
+[1603558592.196312] [thetagpu18:49923:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 9.9476e-14
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=4 Nelements=8192 elapsed time=8.38997e-05 GDOF/s=6.24898 GB/s=1074.04 GFLOPS/s=976.404
+[1603558593.877746] [thetagpu18:49967:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.13687e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=4 Nelements=8192 elapsed time=0.00012373 GDOF/s=12.712 GB/s=993.128 GFLOPS/s=1986.26
+[1603558599.159818] [thetagpu18:50098:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.13687e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=5 Nelements=32 elapsed time=1.17489e-05 GDOF/s=0.340457 GB/s=51.7713 GFLOPS/s=54.1245
+[1603558605.340326] [thetagpu18:50488:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.7053e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=5 Nelements=32 elapsed time=1.17217e-05 GDOF/s=1.02374 GB/s=70.7612 GFLOPS/s=162.751
+[1603558610.077157] [thetagpu18:50620:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.7053e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=5 Nelements=64 elapsed time=1.15443e-05 GDOF/s=0.692984 GB/s=105.378 GFLOPS/s=110.168
+[1603558611.649843] [thetagpu18:50663:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.13687e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=5 Nelements=64 elapsed time=1.18851e-05 GDOF/s=2.01934 GB/s=139.576 GFLOPS/s=321.026
+[1603558616.574892] [thetagpu18:50800:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.13687e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=5 Nelements=128 elapsed time=1.19773e-05 GDOF/s=1.33586 GB/s=203.136 GFLOPS/s=212.37
+[1603558618.103272] [thetagpu18:50844:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.7053e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=5 Nelements=128 elapsed time=1.2344e-05 GDOF/s=3.88854 GB/s=268.776 GFLOPS/s=618.184
+[1603558622.948074] [thetagpu18:50974:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.13687e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=5 Nelements=256 elapsed time=1.27644e-05 GDOF/s=2.50697 GB/s=381.22 GFLOPS/s=398.548
+[1603558624.476493] [thetagpu18:51019:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.7053e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=5 Nelements=256 elapsed time=1.89497e-05 GDOF/s=5.06605 GB/s=350.165 GFLOPS/s=805.38
+[1603558629.379137] [thetagpu18:51149:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.84217e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=5 Nelements=512 elapsed time=1.42486e-05 GDOF/s=4.49168 GB/s=683.023 GFLOPS/s=714.069
+[1603558630.980852] [thetagpu18:51194:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.27374e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=5 Nelements=512 elapsed time=2.58382e-05 GDOF/s=7.43085 GB/s=513.62 GFLOPS/s=1181.33
+[1603558635.778164] [thetagpu18:51325:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.7053e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=5 Nelements=1024 elapsed time=1.85299e-05 GDOF/s=6.90774 GB/s=1050.42 GFLOPS/s=1098.17
+[1603558637.330887] [thetagpu18:51369:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.7053e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=5 Nelements=1024 elapsed time=3.96741e-05 GDOF/s=9.67887 GB/s=669.004 GFLOPS/s=1538.71
+[1603558642.199803] [thetagpu18:51502:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.27374e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=5 Nelements=2048 elapsed time=4.75516e-05 GDOF/s=5.38363 GB/s=818.656 GFLOPS/s=855.868
+[1603558643.982927] [thetagpu18:51546:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.27374e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=5 Nelements=2048 elapsed time=7.9816e-05 GDOF/s=9.62213 GB/s=665.081 GFLOPS/s=1529.69
+[1603558649.045533] [thetagpu18:52211:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.84217e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=5 Nelements=4096 elapsed time=8.44913e-05 GDOF/s=6.0598 GB/s=921.477 GFLOPS/s=963.362
+[1603558650.702947] [thetagpu18:52254:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.84217e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=5 Nelements=4096 elapsed time=0.000142426 GDOF/s=10.7846 GB/s=745.43 GFLOPS/s=1714.49
+[1603558655.990683] [thetagpu18:52388:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.27374e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=5 Nelements=8192 elapsed time=0.000148181 GDOF/s=6.91045 GB/s=1050.83 GFLOPS/s=1098.6
+[1603558657.807938] [thetagpu18:52432:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.27374e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=5 Nelements=8192 elapsed time=0.000269866 GDOF/s=11.3834 GB/s=786.823 GFLOPS/s=1809.69
+[1603558665.183010] [thetagpu18:52797:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.27374e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=6 Nelements=32 elapsed time=1.25123e-05 GDOF/s=0.552417 GB/s=77.1952 GFLOPS/s=91.2307
+[1603558672.918572] [thetagpu18:52954:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.27374e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=6 Nelements=32 elapsed time=1.38882e-05 GDOF/s=1.49307 GB/s=94.8375 GFLOPS/s=246.577
+[1603558677.628041] [thetagpu18:53084:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.7053e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=6 Nelements=64 elapsed time=1.25067e-05 GDOF/s=1.10533 GB/s=154.459 GFLOPS/s=182.543
+[1603558679.172913] [thetagpu18:53128:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.27374e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=6 Nelements=64 elapsed time=1.39909e-05 GDOF/s=2.96422 GB/s=188.283 GFLOPS/s=489.536
+[1603558683.933321] [thetagpu18:53258:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.84217e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=6 Nelements=128 elapsed time=1.30263e-05 GDOF/s=2.12247 GB/s=296.596 GFLOPS/s=350.522
+[1603558685.622066] [thetagpu18:53302:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 3.41061e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=6 Nelements=128 elapsed time=1.60079e-05 GDOF/s=5.18144 GB/s=329.117 GFLOPS/s=855.705
+[1603558690.199415] [thetagpu18:53433:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.84217e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=6 Nelements=256 elapsed time=1.45964e-05 GDOF/s=3.78833 GB/s=529.385 GFLOPS/s=625.636
+[1603558691.755802] [thetagpu18:53476:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 3.41061e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=6 Nelements=256 elapsed time=2.34922e-05 GDOF/s=7.0614 GB/s=448.53 GFLOPS/s=1166.18
+[1603558696.522353] [thetagpu18:53610:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 3.41061e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=6 Nelements=512 elapsed time=1.72993e-05 GDOF/s=6.39286 GB/s=893.343 GFLOPS/s=1055.77
+[1603558698.096446] [thetagpu18:53653:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 3.41061e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=6 Nelements=512 elapsed time=3.30739e-05 GDOF/s=10.0313 GB/s=637.176 GFLOPS/s=1656.66
+[1603558702.875348] [thetagpu18:53784:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.84217e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=6 Nelements=1024 elapsed time=2.92954e-05 GDOF/s=7.55012 GB/s=1055.06 GFLOPS/s=1246.89
+[1603558704.585494] [thetagpu18:53827:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 3.41061e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=6 Nelements=1024 elapsed time=5.97196e-05 GDOF/s=11.1111 GB/s=705.763 GFLOPS/s=1834.98
+[1603558709.440347] [thetagpu18:53962:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 3.41061e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=6 Nelements=2048 elapsed time=6.59013e-05 GDOF/s=6.71258 GB/s=938.021 GFLOPS/s=1108.57
+[1603558711.112938] [thetagpu18:54006:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 4.54747e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=6 Nelements=2048 elapsed time=0.000107554 GDOF/s=12.339 GB/s=783.752 GFLOPS/s=2037.76
+[1603558716.385818] [thetagpu18:54138:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 3.41061e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=6 Nelements=4096 elapsed time=0.000114029 GDOF/s=7.75886 GB/s=1084.23 GFLOPS/s=1281.36
+[1603558718.103197] [thetagpu18:54181:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 4.54747e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=6 Nelements=4096 elapsed time=0.000193688 GDOF/s=13.7035 GB/s=870.428 GFLOPS/s=2263.11
+[1603558725.370692] [thetagpu18:54550:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 4.54747e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=6 Nelements=8192 elapsed time=0.000208533 GDOF/s=8.48533 GB/s=1185.75 GFLOPS/s=1401.34
+[1603558727.436642] [thetagpu18:54667:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 5.68434e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=6 Nelements=8192 elapsed time=0.000370531 GDOF/s=14.3265 GB/s=909.998 GFLOPS/s=2365.99
+[1603558733.814896] [thetagpu18:54799:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 3.41061e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=7 Nelements=32 elapsed time=1.71994e-05 GDOF/s=0.638161 GB/s=83.8279 GFLOPS/s=110.5
+[1603558735.480350] [thetagpu18:54843:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 4.54747e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=7 Nelements=32 elapsed time=1.6941e-05 GDOF/s=1.94369 GB/s=116.055 GFLOPS/s=336.558
+[1603558740.334626] [thetagpu18:54975:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 3.41061e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=7 Nelements=64 elapsed time=1.72323e-05 GDOF/s=1.27389 GB/s=167.336 GFLOPS/s=220.58
+[1603558741.937537] [thetagpu18:55019:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 5.68434e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=7 Nelements=64 elapsed time=1.7365e-05 GDOF/s=3.79247 GB/s=226.442 GFLOPS/s=656.683
+[1603558746.682772] [thetagpu18:55149:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 4.54747e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=7 Nelements=128 elapsed time=1.80061e-05 GDOF/s=2.43828 GB/s=320.29 GFLOPS/s=422.2
+[1603558748.228049] [thetagpu18:55193:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 6.82121e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=7 Nelements=128 elapsed time=1.89602e-05 GDOF/s=6.94678 GB/s=414.782 GFLOPS/s=1202.87
+[1603558752.899897] [thetagpu18:55326:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 5.68434e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=7 Nelements=256 elapsed time=2.01593e-05 GDOF/s=4.3557 GB/s=572.158 GFLOPS/s=754.208
+[1603558754.466602] [thetagpu18:55370:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 5.68434e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=7 Nelements=256 elapsed time=2.91809e-05 GDOF/s=9.02727 GB/s=539.005 GFLOPS/s=1563.11
+[1603558759.219193] [thetagpu18:55502:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 4.54747e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=7 Nelements=512 elapsed time=2.4148e-05 GDOF/s=7.27247 GB/s=955.302 GFLOPS/s=1259.26
+[1603558760.778516] [thetagpu18:55545:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 5.68434e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=7 Nelements=512 elapsed time=4.95973e-05 GDOF/s=10.6225 GB/s=634.254 GFLOPS/s=1839.34
+[1603558765.654980] [thetagpu18:55677:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 6.82121e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=7 Nelements=1024 elapsed time=4.87298e-05 GDOF/s=7.20774 GB/s=946.799 GFLOPS/s=1248.05
+[1603558767.265081] [thetagpu18:55723:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 9.09495e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=7 Nelements=1024 elapsed time=8.66892e-05 GDOF/s=12.1549 GB/s=725.748 GFLOPS/s=2104.67
+[1603558772.416040] [thetagpu18:55855:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 9.09495e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=7 Nelements=2048 elapsed time=9.17493e-05 GDOF/s=7.65634 GB/s=1005.73 GFLOPS/s=1325.73
+[1603558774.125083] [thetagpu18:55900:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 9.09495e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=7 Nelements=2048 elapsed time=0.000155603 GDOF/s=13.5434 GB/s=808.656 GFLOPS/s=2345.1
+[1603558779.635317] [thetagpu18:56043:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 6.25278e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=7 Nelements=4096 elapsed time=0.000154969 GDOF/s=9.06588 GB/s=1190.88 GFLOPS/s=1569.8
+[1603558782.130970] [thetagpu18:56271:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 9.09495e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=7 Nelements=4096 elapsed time=0.000286968 GDOF/s=14.6873 GB/s=876.957 GFLOPS/s=2543.18
+[1603558789.110976] [thetagpu18:56516:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 5.68434e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=7 Nelements=8192 elapsed time=0.000295208 GDOF/s=9.51824 GB/s=1250.3 GFLOPS/s=1648.13
+[1603558791.261673] [thetagpu18:56560:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 9.09495e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=7 Nelements=8192 elapsed time=0.000554065 GDOF/s=15.214 GB/s=908.407 GFLOPS/s=2634.38
+[1603558798.688501] [thetagpu18:56696:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 6.82121e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=8 Nelements=32 elapsed time=1.94763e-05 GDOF/s=0.841228 GB/s=105.403 GFLOPS/s=153.314
+[1603558810.328771] [thetagpu18:56782:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 9.09495e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=8 Nelements=32 elapsed time=2.06105e-05 GDOF/s=2.3848 GB/s=135.822 GFLOPS/s=434.63
+[1603558814.995545] [thetagpu18:56914:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 9.09495e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=8 Nelements=64 elapsed time=1.96621e-05 GDOF/s=1.66656 GB/s=208.815 GFLOPS/s=303.731
+[1603558816.614361] [thetagpu18:56958:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 9.09495e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=8 Nelements=64 elapsed time=2.0716e-05 GDOF/s=4.74532 GB/s=270.261 GFLOPS/s=864.835
+[1603558821.319298] [thetagpu18:57088:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 9.09495e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=8 Nelements=128 elapsed time=2.2161e-05 GDOF/s=2.95726 GB/s=370.536 GFLOPS/s=538.961
+[1603558822.894272] [thetagpu18:57132:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.36424e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=8 Nelements=128 elapsed time=3.45553e-05 GDOF/s=5.68967 GB/s=324.044 GFLOPS/s=1036.94
+[1603558827.722628] [thetagpu18:57266:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 9.09495e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=8 Nelements=256 elapsed time=2.45413e-05 GDOF/s=5.34088 GB/s=669.196 GFLOPS/s=973.376
+[1603558829.342680] [thetagpu18:57311:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.13687e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=8 Nelements=256 elapsed time=4.90022e-05 GDOF/s=8.02445 GB/s=457.018 GFLOPS/s=1462.46
+[1603558834.222488] [thetagpu18:57444:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 9.09495e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=8 Nelements=512 elapsed time=4.1842e-05 GDOF/s=6.2651 GB/s=784.997 GFLOPS/s=1141.81
+[1603558835.845533] [thetagpu18:57487:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.13687e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=8 Nelements=512 elapsed time=8.80239e-05 GDOF/s=8.9343 GB/s=508.836 GFLOPS/s=1628.28
+[1603558841.279681] [thetagpu18:57897:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.13687e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=8 Nelements=1024 elapsed time=8.44347e-05 GDOF/s=6.20939 GB/s=778.017 GFLOPS/s=1131.66
+[1603558843.659222] [thetagpu18:57941:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.13687e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=8 Nelements=1024 elapsed time=0.000162908 GDOF/s=9.6549 GB/s=549.877 GFLOPS/s=1759.61
+[1603558849.561884] [thetagpu18:58231:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.13687e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=8 Nelements=2048 elapsed time=0.000140958 GDOF/s=7.43895 GB/s=932.077 GFLOPS/s=1355.75
+[1603558852.363024] [thetagpu18:58275:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.13687e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=8 Nelements=2048 elapsed time=0.000300334 GDOF/s=10.4741 GB/s=596.533 GFLOPS/s=1908.9
+[1603558861.813242] [thetagpu18:58412:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.36424e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=8 Nelements=4096 elapsed time=0.000252778 GDOF/s=8.29643 GB/s=1039.52 GFLOPS/s=1512.02
+[1603558863.873053] [thetagpu18:58457:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.36424e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=8 Nelements=4096 elapsed time=0.000585672 GDOF/s=10.7423 GB/s=611.807 GFLOPS/s=1957.78
+[1603558870.610360] [thetagpu18:58591:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.36424e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=8 Nelements=8192 elapsed time=0.000499304 GDOF/s=8.4003 GB/s=1052.53 GFLOPS/s=1530.95
+[1603558873.002720] [thetagpu18:58636:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.81899e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=8 Nelements=8192 elapsed time=0.00106486 GDOF/s=11.8164 GB/s=672.983 GFLOPS/s=2153.55
+[1603558881.585932] [thetagpu18:58772:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 9.09495e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=9 Nelements=32 elapsed time=2.55065e-05 GDOF/s=0.914591 GB/s=110.403 GFLOPS/s=175.642
+[1603558896.369078] [thetagpu18:58861:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 9.09495e-13
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=9 Nelements=32 elapsed time=2.36543e-05 GDOF/s=2.95862 GB/s=162.339 GFLOPS/s=568.185
+[1603558901.727039] [thetagpu18:59189:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.36424e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=9 Nelements=64 elapsed time=2.54457e-05 GDOF/s=1.83355 GB/s=221.334 GFLOPS/s=352.122
+[1603558903.986844] [thetagpu18:59273:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.36424e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=9 Nelements=64 elapsed time=2.40649e-05 GDOF/s=5.81626 GB/s=319.136 GFLOPS/s=1116.98
+[1603558909.310621] [thetagpu18:59479:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.13687e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=9 Nelements=128 elapsed time=2.8634e-05 GDOF/s=3.25878 GB/s=393.378 GFLOPS/s=625.829
+[1603558910.868036] [thetagpu18:59522:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.36424e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=9 Nelements=128 elapsed time=4.03382e-05 GDOF/s=6.93972 GB/s=380.78 GFLOPS/s=1332.73
+[1603558915.718386] [thetagpu18:59659:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.36424e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=9 Nelements=256 elapsed time=3.19446e-05 GDOF/s=5.84212 GB/s=705.221 GFLOPS/s=1121.94
+[1603558917.478136] [thetagpu18:59702:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.36424e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=9 Nelements=256 elapsed time=6.16479e-05 GDOF/s=9.08177 GB/s=498.314 GFLOPS/s=1744.1
+[1603558922.552527] [thetagpu18:59834:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.81899e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=9 Nelements=512 elapsed time=5.83541e-05 GDOF/s=6.39626 GB/s=772.113 GFLOPS/s=1228.36
+[1603558924.226647] [thetagpu18:59879:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.81899e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=9 Nelements=512 elapsed time=0.000115734 GDOF/s=9.67516 GB/s=530.873 GFLOPS/s=1858.05
+[1603558929.294697] [thetagpu18:60010:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.81899e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=9 Nelements=1024 elapsed time=0.000107833 GDOF/s=6.92273 GB/s=835.665 GFLOPS/s=1329.47
+[1603558931.020940] [thetagpu18:60054:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.27374e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=9 Nelements=1024 elapsed time=0.000200871 GDOF/s=11.1489 GB/s=611.735 GFLOPS/s=2141.07
+[1603558936.438037] [thetagpu18:60187:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.27374e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=9 Nelements=2048 elapsed time=0.000200802 GDOF/s=7.43514 GB/s=897.52 GFLOPS/s=1427.87
+[1603558938.366057] [thetagpu18:60230:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.27374e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=9 Nelements=2048 elapsed time=0.000371548 GDOF/s=12.0549 GB/s=661.45 GFLOPS/s=2315.07
+[1603558944.527790] [thetagpu18:60361:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.27374e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=9 Nelements=4096 elapsed time=0.000365566 GDOF/s=8.16811 GB/s=985.999 GFLOPS/s=1568.63
+[1603558946.714454] [thetagpu18:60405:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.81899e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=9 Nelements=4096 elapsed time=0.00072271 GDOF/s=12.3949 GB/s=680.107 GFLOPS/s=2380.37
+[1603558954.406282] [thetagpu18:61071:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.72848e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=9 Nelements=8192 elapsed time=0.000700566 GDOF/s=8.52449 GB/s=1029.02 GFLOPS/s=1637.08
+[1603558957.258512] [thetagpu18:61115:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.72848e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=9 Nelements=8192 elapsed time=0.00127106 GDOF/s=14.0953 GB/s=773.403 GFLOPS/s=2706.91
+[1603558968.866035] [thetagpu18:61558:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.04636e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=10 Nelements=32 elapsed time=2.58382e-05 GDOF/s=1.23847 GB/s=145.06 GFLOPS/s=250.558
+[1603558988.525644] [thetagpu18:61646:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.04636e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=10 Nelements=32 elapsed time=3.07419e-05 GDOF/s=3.12277 GB/s=166.257 GFLOPS/s=631.775
+[1603558993.194371] [thetagpu18:61778:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.81899e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=10 Nelements=64 elapsed time=2.60135e-05 GDOF/s=2.46026 GB/s=288.165 GFLOPS/s=497.74
+[1603558994.778818] [thetagpu18:61821:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.81899e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=10 Nelements=64 elapsed time=3.1066e-05 GDOF/s=6.1804 GB/s=329.045 GFLOPS/s=1250.37
+[1603558999.627360] [thetagpu18:62021:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.27374e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=10 Nelements=128 elapsed time=3.0751e-05 GDOF/s=4.16247 GB/s=487.542 GFLOPS/s=842.118
+[1603559001.205379] [thetagpu18:62064:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.27374e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=10 Nelements=128 elapsed time=5.28247e-05 GDOF/s=7.26933 GB/s=387.019 GFLOPS/s=1470.67
+[1603559005.981496] [thetagpu18:62274:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.27374e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=10 Nelements=256 elapsed time=4.57029e-05 GDOF/s=5.6014 GB/s=656.081 GFLOPS/s=1133.23
+[1603559007.627123] [thetagpu18:62321:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.72848e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=10 Nelements=256 elapsed time=8.54866e-05 GDOF/s=8.98387 GB/s=478.301 GFLOPS/s=1817.54
+[1603559012.619391] [thetagpu18:62453:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.72848e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=10 Nelements=512 elapsed time=7.18323e-05 GDOF/s=7.12771 GB/s=834.854 GFLOPS/s=1442.02
+[1603559014.303281] [thetagpu18:62498:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.72848e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=10 Nelements=512 elapsed time=0.000136994 GDOF/s=11.2122 GB/s=596.936 GFLOPS/s=2268.36
+[1603559019.711286] [thetagpu18:62643:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 3.18323e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=10 Nelements=1024 elapsed time=0.000130306 GDOF/s=7.85843 GB/s=920.442 GFLOPS/s=1589.86
+[1603559022.123274] [thetagpu18:62887:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.72848e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=10 Nelements=1024 elapsed time=0.000254962 GDOF/s=12.0488 GB/s=641.48 GFLOPS/s=2437.63
+[1603559028.609020] [thetagpu18:63136:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 3.63798e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=10 Nelements=2048 elapsed time=0.00024822 GDOF/s=8.25076 GB/s=966.395 GFLOPS/s=1669.23
+[1603559030.591364] [thetagpu18:63180:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 3.63798e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=10 Nelements=2048 elapsed time=0.000472409 GDOF/s=13.0057 GB/s=692.422 GFLOPS/s=2631.2
+[1603559037.412730] [thetagpu18:63315:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 3.18323e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=10 Nelements=4096 elapsed time=0.000483957 GDOF/s=8.46356 GB/s=991.32 GFLOPS/s=1712.28
+[1603559039.773499] [thetagpu18:63359:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 3.41061e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=10 Nelements=4096 elapsed time=0.000924133 GDOF/s=13.2968 GB/s=707.921 GFLOPS/s=2690.1
+[1603559048.535996] [thetagpu18:63493:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 3.63798e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=10 Nelements=8192 elapsed time=0.000946945 GDOF/s=8.65098 GB/s=1013.27 GFLOPS/s=1750.2
+[1603559051.801687] [thetagpu18:63537:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 3.63798e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=10 Nelements=8192 elapsed time=0.00181686 GDOF/s=13.5266 GB/s=720.157 GFLOPS/s=2736.6
+[1603559064.577103] [thetagpu18:63674:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.81899e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=11 Nelements=32 elapsed time=3.55387e-05 GDOF/s=1.19847 GB/s=136.923 GFLOPS/s=255.174
+[1603559088.570692] [thetagpu18:64074:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 3.63798e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=11 Nelements=32 elapsed time=5.06694e-05 GDOF/s=2.52176 GB/s=130.957 GFLOPS/s=536.925
+[1603559093.355293] [thetagpu18:64209:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.72848e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=11 Nelements=64 elapsed time=3.56916e-05 GDOF/s=2.38667 GB/s=272.672 GFLOPS/s=508.161
+[1603559094.899506] [thetagpu18:64252:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.72848e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=11 Nelements=64 elapsed time=5.1152e-05 GDOF/s=4.99594 GB/s=259.443 GFLOPS/s=1063.72
+[1603559099.703423] [thetagpu18:64383:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 3.18323e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=11 Nelements=128 elapsed time=4.13594e-05 GDOF/s=4.11921 GB/s=470.612 GFLOPS/s=877.049
+[1603559101.293504] [thetagpu18:64427:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 4.09273e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=11 Nelements=128 elapsed time=9.95773e-05 GDOF/s=5.13274 GB/s=266.548 GFLOPS/s=1092.84
+[1603559106.269480] [thetagpu18:64562:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 3.18323e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=11 Nelements=256 elapsed time=6.74525e-05 GDOF/s=5.05149 GB/s=577.123 GFLOPS/s=1075.55
+[1603559107.988653] [thetagpu18:64606:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 3.18323e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=11 Nelements=256 elapsed time=0.000157221 GDOF/s=6.50172 GB/s=337.64 GFLOPS/s=1384.32
+[1603559113.043126] [thetagpu18:64737:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 4.54747e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=11 Nelements=512 elapsed time=0.00012281 GDOF/s=5.54898 GB/s=633.959 GFLOPS/s=1181.47
+[1603559114.745183] [thetagpu18:64781:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 4.54747e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=11 Nelements=512 elapsed time=0.000261825 GDOF/s=7.80833 GB/s=405.494 GFLOPS/s=1662.52
+[1603559120.252061] [thetagpu18:64914:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 3.63798e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=11 Nelements=1024 elapsed time=0.00019556 GDOF/s=6.96943 GB/s=796.242 GFLOPS/s=1483.91
+[1603559122.098047] [thetagpu18:64958:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 4.54747e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=11 Nelements=1024 elapsed time=0.000514267 GDOF/s=7.95079 GB/s=412.892 GFLOPS/s=1692.86
+[1603559128.302177] [thetagpu18:65094:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 6.36646e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=11 Nelements=2048 elapsed time=0.000342997 GDOF/s=7.94726 GB/s=907.958 GFLOPS/s=1692.1
+[1603559130.483579] [thetagpu18:65151:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 5.45697e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=11 Nelements=2048 elapsed time=0.000968539 GDOF/s=8.4433 GB/s=438.468 GFLOPS/s=1797.72
+[1603559138.159064] [thetagpu18:65284:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 4.54747e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=11 Nelements=4096 elapsed time=0.000662896 GDOF/s=8.22418 GB/s=939.595 GFLOPS/s=1751.06
+[1603559141.366909] [thetagpu18:65523:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 4.54747e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=11 Nelements=4096 elapsed time=0.0016775 GDOF/s=9.74982 GB/s=506.317 GFLOPS/s=2075.9
+[1603559151.783301] [thetagpu18:65769:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 5.91172e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=11 Nelements=8192 elapsed time=0.00129456 GDOF/s=8.4226 GB/s=962.265 GFLOPS/s=1793.31
+[1603559155.533340] [thetagpu18:65815:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 5.91172e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=11 Nelements=8192 elapsed time=0.00317226 GDOF/s=10.3115 GB/s=535.484 GFLOPS/s=2195.48
+[1603559172.622005] [thetagpu18:65950:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 5.45697e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=12 Nelements=32 elapsed time=3.47536e-05 GDOF/s=1.59109 GB/s=178.017 GFLOPS/s=356.035
+[1603559203.955795] [thetagpu18:66353:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 5.45697e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=12 Nelements=32 elapsed time=6.22576e-05 GDOF/s=2.66454 GB/s=135.509 GFLOPS/s=596.24
+[1603559208.729816] [thetagpu18:66491:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 4.54747e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=12 Nelements=64 elapsed time=3.49401e-05 GDOF/s=3.16519 GB/s=354.135 GFLOPS/s=708.269
+[1603559210.435838] [thetagpu18:66544:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 7.27596e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=12 Nelements=64 elapsed time=6.26955e-05 GDOF/s=5.29186 GB/s=269.125 GFLOPS/s=1184.15
+[1603559215.215291] [thetagpu18:66685:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 4.54747e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=12 Nelements=128 elapsed time=4.93982e-05 GDOF/s=4.47757 GB/s=500.97 GFLOPS/s=1001.94
+[1603559216.836748] [thetagpu18:66728:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 5.45697e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=12 Nelements=128 elapsed time=0.000134663 GDOF/s=4.92749 GB/s=250.595 GFLOPS/s=1102.62
+[1603559221.775856] [thetagpu18:66861:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 5.45697e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=12 Nelements=256 elapsed time=0.000103266 GDOF/s=4.28379 GB/s=479.288 GFLOPS/s=958.576
+[1603559223.626567] [thetagpu18:66906:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 6.36646e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=12 Nelements=256 elapsed time=0.000235281 GDOF/s=5.6405 GB/s=286.856 GFLOPS/s=1262.17
+[1603559228.874794] [thetagpu18:67041:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 6.36646e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=12 Nelements=512 elapsed time=0.000163127 GDOF/s=5.4236 GB/s=606.816 GFLOPS/s=1213.63
+[1603559230.612822] [thetagpu18:67085:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 6.36646e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=12 Nelements=512 elapsed time=0.000426164 GDOF/s=6.22813 GB/s=316.741 GFLOPS/s=1393.66
+[1603559236.252871] [thetagpu18:67218:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 5.45697e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=12 Nelements=1024 elapsed time=0.000281495 GDOF/s=6.28597 GB/s=703.301 GFLOPS/s=1406.6
+[1603559238.200668] [thetagpu18:67261:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 5.45697e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=12 Nelements=1024 elapsed time=0.000876046 GDOF/s=6.05952 GB/s=308.166 GFLOPS/s=1355.93
+[1603559244.834640] [thetagpu18:67392:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 5.45697e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=12 Nelements=2048 elapsed time=0.000544077 GDOF/s=6.50449 GB/s=727.75 GFLOPS/s=1455.5
+[1603559247.236827] [thetagpu18:67440:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 5.91172e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=12 Nelements=2048 elapsed time=0.00162456 GDOF/s=6.53519 GB/s=332.357 GFLOPS/s=1462.37
+[1603559255.617433] [thetagpu18:68105:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 6.36646e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=12 Nelements=4096 elapsed time=0.00105173 GDOF/s=6.72978 GB/s=752.956 GFLOPS/s=1505.91
+[1603559258.659660] [thetagpu18:68149:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 7.27596e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=12 Nelements=4096 elapsed time=0.00328953 GDOF/s=6.45492 GB/s=328.274 GFLOPS/s=1444.41
+[1603559271.393219] [thetagpu18:68590:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 7.27596e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=12 Nelements=8192 elapsed time=0.00191772 GDOF/s=7.38158 GB/s=825.883 GFLOPS/s=1651.77
+[1603559275.841829] [thetagpu18:68637:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 7.27596e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=12 Nelements=8192 elapsed time=0.00642038 GDOF/s=6.61446 GB/s=336.388 GFLOPS/s=1480.11
+[1603559296.140160] [thetagpu18:68775:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 6.36646e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=13 Nelements=32 elapsed time=4.33107e-05 GDOF/s=1.62325 GB/s=178.411 GFLOPS/s=381.15
+[1603559336.695289] [thetagpu18:69185:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 7.27596e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=13 Nelements=32 elapsed time=6.87879e-05 GDOF/s=3.06612 GB/s=153.18 GFLOPS/s=719.948
+[1603559342.202948] [thetagpu18:69316:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 6.82121e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=13 Nelements=64 elapsed time=4.40224e-05 GDOF/s=3.19401 GB/s=351.053 GFLOPS/s=749.977
+[1603559345.750884] [thetagpu18:69360:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 6.82121e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=13 Nelements=64 elapsed time=6.93089e-05 GDOF/s=6.08614 GB/s=304.058 GFLOPS/s=1429.07
+[1603559351.971446] [thetagpu18:69493:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 5.45697e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=13 Nelements=128 elapsed time=7.1025e-05 GDOF/s=3.9594 GB/s=435.177 GFLOPS/s=929.696
+[1603559353.625442] [thetagpu18:69540:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 5.45697e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=13 Nelements=128 elapsed time=0.000175487 GDOF/s=4.80747 GB/s=240.176 GFLOPS/s=1128.83
+[1603559358.586790] [thetagpu18:69671:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 6.36646e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=13 Nelements=256 elapsed time=0.000129153 GDOF/s=4.35478 GB/s=478.633 GFLOPS/s=1022.53
+[1603559360.289636] [thetagpu18:69715:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 9.09495e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=13 Nelements=256 elapsed time=0.000299568 GDOF/s=5.63243 GB/s=281.391 GFLOPS/s=1322.54
+[1603559365.711204] [thetagpu18:69847:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 8.18545e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=13 Nelements=512 elapsed time=0.000199524 GDOF/s=5.63774 GB/s=619.643 GFLOPS/s=1323.78
+[1603559367.484659] [thetagpu18:69893:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 8.18545e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=13 Nelements=512 elapsed time=0.000563348 GDOF/s=5.99025 GB/s=299.267 GFLOPS/s=1406.55
+[1603559373.644882] [thetagpu18:70029:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 9.09495e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=13 Nelements=1024 elapsed time=0.000353782 GDOF/s=6.35908 GB/s=698.926 GFLOPS/s=1493.16
+[1603559375.752661] [thetagpu18:70074:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.09139e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=13 Nelements=1024 elapsed time=0.00108959 GDOF/s=6.19425 GB/s=309.459 GFLOPS/s=1454.46
+[1603559384.140200] [thetagpu18:70442:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 9.09495e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=13 Nelements=2048 elapsed time=0.000678065 GDOF/s=6.63573 GB/s=729.332 GFLOPS/s=1558.12
+[1603559386.743244] [thetagpu18:70561:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.09139e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=13 Nelements=2048 elapsed time=0.00221074 GDOF/s=6.1058 GB/s=305.04 GFLOPS/s=1433.69
+[1603559396.368183] [thetagpu18:70695:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.09139e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=13 Nelements=4096 elapsed time=0.00132431 GDOF/s=6.79516 GB/s=746.855 GFLOPS/s=1595.55
+[1603559399.914553] [thetagpu18:70739:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.09139e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=13 Nelements=4096 elapsed time=0.00400898 GDOF/s=6.73406 GB/s=336.427 GFLOPS/s=1581.21
+[1603559414.263907] [thetagpu18:70876:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 9.09495e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=13 Nelements=8192 elapsed time=0.00234675 GDOF/s=7.66924 GB/s=842.925 GFLOPS/s=1800.79
+[1603559419.517958] [thetagpu18:70921:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.09139e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=13 Nelements=8192 elapsed time=0.00803144 GDOF/s=6.72277 GB/s=335.863 GFLOPS/s=1578.56
+[1603559444.520915] [thetagpu18:71066:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 7.27596e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=14 Nelements=32 elapsed time=4.49108e-05 GDOF/s=1.95516 GB/s=211.619 GFLOPS/s=480.953
+[1603559496.081804] [thetagpu18:71476:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 7.27596e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=14 Nelements=32 elapsed time=8.74582e-05 GDOF/s=3.012 GB/s=148.185 GFLOPS/s=740.925
+[1603559501.017653] [thetagpu18:71608:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.09139e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=14 Nelements=64 elapsed time=4.57943e-05 GDOF/s=3.83488 GB/s=415.073 GFLOPS/s=943.348
+[1603559502.644945] [thetagpu18:71651:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.09139e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=14 Nelements=64 elapsed time=0.000108015 GDOF/s=4.87755 GB/s=239.967 GFLOPS/s=1199.83
+[1603559507.593333] [thetagpu18:71794:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.09139e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=14 Nelements=128 elapsed time=0.000107787 GDOF/s=3.25859 GB/s=352.697 GFLOPS/s=801.584
+[1603559509.947771] [thetagpu18:72022:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.09139e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=14 Nelements=128 elapsed time=0.000240819 GDOF/s=4.37547 GB/s=215.265 GFLOPS/s=1076.33
+[1603559516.156633] [thetagpu18:72268:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 7.27596e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=14 Nelements=256 elapsed time=0.000161842 GDOF/s=4.34043 GB/s=469.792 GFLOPS/s=1067.71
+[1603559517.862252] [thetagpu18:72313:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.09139e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=14 Nelements=256 elapsed time=0.000396977 GDOF/s=5.30861 GB/s=261.174 GFLOPS/s=1305.87
+[1603559523.393334] [thetagpu18:72449:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.00044e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=14 Nelements=512 elapsed time=0.000269589 GDOF/s=5.21136 GB/s=564.058 GFLOPS/s=1281.95
+[1603559525.321466] [thetagpu18:72494:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.27329e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=14 Nelements=512 elapsed time=0.000727112 GDOF/s=5.79661 GB/s=285.183 GFLOPS/s=1425.91
+[1603559531.655441] [thetagpu18:72626:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.36424e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=14 Nelements=1024 elapsed time=0.000525505 GDOF/s=5.34696 GB/s=578.735 GFLOPS/s=1315.31
+[1603559533.841018] [thetagpu18:72672:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.36424e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=14 Nelements=1024 elapsed time=0.0013797 GDOF/s=6.10971 GB/s=300.587 GFLOPS/s=1502.94
+[1603559541.663610] [thetagpu18:72809:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.27329e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=14 Nelements=2048 elapsed time=0.00101075 GDOF/s=5.55992 GB/s=601.784 GFLOPS/s=1367.69
+[1603559544.414694] [thetagpu18:72853:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.45519e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=14 Nelements=2048 elapsed time=0.00269011 GDOF/s=6.26707 GB/s=308.329 GFLOPS/s=1541.64
+[1603559555.366852] [thetagpu18:73517:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.45519e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=14 Nelements=4096 elapsed time=0.00192699 GDOF/s=5.83262 GB/s=631.3 GFLOPS/s=1434.77
+[1603559559.352810] [thetagpu18:73561:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.45519e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=14 Nelements=4096 elapsed time=0.00505255 GDOF/s=6.67351 GB/s=328.325 GFLOPS/s=1641.63
+[1603559578.401790] [thetagpu18:74005:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.45519e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=14 Nelements=8192 elapsed time=0.00369266 GDOF/s=6.08744 GB/s=658.881 GFLOPS/s=1497.46
+[1603559585.036996] [thetagpu18:74051:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.45519e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=14 Nelements=8192 elapsed time=0.0100598 GDOF/s=6.70358 GB/s=329.804 GFLOPS/s=1649.02
+[1603559617.666835] [thetagpu18:74199:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 9.09495e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=15 Nelements=32 elapsed time=8.58665e-05 GDOF/s=1.25777 GB/s=134.329 GFLOPS/s=323.61
+[1603559680.591036] [thetagpu18:74615:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 9.09495e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=15 Nelements=32 elapsed time=0.000127314 GDOF/s=2.54489 GB/s=123.542 GFLOPS/s=654.774
+[1603559685.400868] [thetagpu18:74746:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 9.09495e-12
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=15 Nelements=64 elapsed time=8.78326e-05 GDOF/s=2.45922 GB/s=262.644 GFLOPS/s=632.733
+[1603559687.019831] [thetagpu18:74791:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.45519e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=15 Nelements=64 elapsed time=0.000164785 GDOF/s=3.9324 GB/s=190.899 GFLOPS/s=1011.76
+[1603559693.975042] [thetagpu18:75157:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.45519e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=15 Nelements=128 elapsed time=0.000137568 GDOF/s=3.14026 GB/s=335.378 GFLOPS/s=807.956
+[1603559695.676964] [thetagpu18:75274:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.45519e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=15 Nelements=128 elapsed time=0.000329846 GDOF/s=3.92911 GB/s=190.739 GFLOPS/s=1010.92
+[1603559701.184466] [thetagpu18:75405:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.27329e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=15 Nelements=256 elapsed time=0.000240296 GDOF/s=3.59557 GB/s=384.004 GFLOPS/s=925.101
+[1603559702.965742] [thetagpu18:75452:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.45519e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=15 Nelements=256 elapsed time=0.000530101 GDOF/s=4.88963 GB/s=237.368 GFLOPS/s=1258.05
+[1603559708.946691] [thetagpu18:75583:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.45519e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=15 Nelements=512 elapsed time=0.000374199 GDOF/s=4.61787 GB/s=493.185 GFLOPS/s=1188.13
+[1603559711.068253] [thetagpu18:75627:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.72804e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=15 Nelements=512 elapsed time=0.00091124 GDOF/s=5.68895 GB/s=276.171 GFLOPS/s=1463.71
+[1603559718.081169] [thetagpu18:75759:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.45519e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=15 Nelements=1024 elapsed time=0.000660055 GDOF/s=5.23593 GB/s=559.194 GFLOPS/s=1347.15
+[1603559720.538162] [thetagpu18:75803:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.45519e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=15 Nelements=1024 elapsed time=0.0016803 GDOF/s=6.17031 GB/s=299.539 GFLOPS/s=1587.56
+[1603559729.957157] [thetagpu18:75939:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.45519e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=15 Nelements=2048 elapsed time=0.0012873 GDOF/s=5.36938 GB/s=573.446 GFLOPS/s=1381.48
+[1603559733.209062] [thetagpu18:75984:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.81899e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=15 Nelements=2048 elapsed time=0.00325339 GDOF/s=6.37367 GB/s=309.411 GFLOPS/s=1639.88
+[1603559747.321177] [thetagpu18:76119:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.18279e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=15 Nelements=4096 elapsed time=0.0022369 GDOF/s=6.17998 GB/s=660.019 GFLOPS/s=1590.04
+[1603559752.422041] [thetagpu18:76472:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.18279e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=15 Nelements=4096 elapsed time=0.00630953 GDOF/s=6.57291 GB/s=319.083 GFLOPS/s=1691.14
+[1603559776.210195] [thetagpu18:76612:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.18279e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=15 Nelements=8192 elapsed time=0.00438864 GDOF/s=6.2999 GB/s=672.825 GFLOPS/s=1620.9
+[1603559785.304582] [thetagpu18:76658:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.18279e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=3 N=15 Nelements=8192 elapsed time=0.0122157 GDOF/s=6.78997 GB/s=329.62 GFLOPS/s=1746.99
+[1603559829.359987] [thetagpu18:77121:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.18279e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=16 Nelements=32 elapsed time=8.34514e-05 GDOF/s=1.57064 GB/s=165.785 GFLOPS/s=421.999
+[1603559905.382788] [thetagpu18:78074:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+[1603559910.753707] [thetagpu18:78224:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.27329e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=16 Nelements=64 elapsed time=8.93461e-05 GDOF/s=2.93403 GB/s=309.695 GFLOPS/s=788.314
+[1603559912.391567] [thetagpu18:78274:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+[1603559918.184408] [thetagpu18:78428:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.45519e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=16 Nelements=128 elapsed time=0.00018465 GDOF/s=2.83937 GB/s=299.703 GFLOPS/s=762.88
+[1603559919.972958] [thetagpu18:78480:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+[1603559925.942056] [thetagpu18:78625:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.81899e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=16 Nelements=256 elapsed time=0.000273616 GDOF/s=3.83229 GB/s=404.509 GFLOPS/s=1029.66
+[1603559928.295991] [thetagpu18:78829:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+[1603559936.700094] [thetagpu18:79133:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 1.81899e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=16 Nelements=512 elapsed time=0.000453063 GDOF/s=4.62883 GB/s=488.586 GFLOPS/s=1243.67
+[1603559938.742582] [thetagpu18:79185:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+[1603559947.923691] [thetagpu18:79327:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.54659e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=16 Nelements=1024 elapsed time=0.000894258 GDOF/s=4.69026 GB/s=495.07 GFLOPS/s=1260.18
+[1603559950.525034] [thetagpu18:79378:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+[1603559963.507667] [thetagpu18:79527:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.18279e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=16 Nelements=2048 elapsed time=0.00149019 GDOF/s=5.62922 GB/s=594.18 GFLOPS/s=1512.46
+[1603559966.887727] [thetagpu18:79576:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+[1603559986.163572] [thetagpu18:79726:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.54659e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=16 Nelements=4096 elapsed time=0.00292597 GDOF/s=5.73391 GB/s=605.23 GFLOPS/s=1540.58
+[1603559992.084021] [thetagpu18:80013:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+[1603560039.343616] [thetagpu18:80255:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
+word size: 8 bytes
+active occa mode: CUDA
+Correctness check: maxError = 2.18279e-11
+MPItasks=1 OMPthreads=1 NRepetitions=100 Ndim=1 N=16 Nelements=8192 elapsed time=0.00586159 GDOF/s=5.72445 GB/s=604.232 GFLOPS/s=1538.04
+[1603560050.400413] [thetagpu18:80511:0]    ucp_context.c:1079 UCX  ERROR exceeded transports/devices limit (72 requested, up to 64 are supported)
