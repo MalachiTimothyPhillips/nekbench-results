@@ -89,8 +89,8 @@ for machine_name, gpu_types in machine_to_gpu.items():
     for bk_mode in [0,5]:
       for ndim in [1,3]:
         filename = f"/home/malachi/work/research/nekbench-results/data/{machine_name}/{gpu_type}/kernel_version_0_bk_mode_{bk_mode}_results"
-        generate_plot(filename,ndim,xlim=(1,1e8), ylim=(0,3500), bkmode=bk_mode, machine=gpu_type, bw=False)
-        generate_plot(filename,ndim,xlim=(1,1e8), ylim=(0,1300), bkmode=bk_mode, machine=gpu_type, bw=True)
+        generate_plot(filename,ndim,xlim=(1e3,1e8), ylim=(0,3250), bkmode=bk_mode, machine=gpu_type, bw=False)
+        generate_plot(filename,ndim,xlim=(1e3,1e8), ylim=(0,1300), bkmode=bk_mode, machine=gpu_type, bw=True)
 
 
 
